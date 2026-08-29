@@ -1,0 +1,70 @@
+about:
+  description: ⚓ A collection of high-performance JavaScript tools.
+  license: MIT
+  homepage: https://oxc.rs
+  head: 1e902cc
+  archived: false
+  latestVersion: apps_v1.80.0
+  collectedAt: 2026-08-29T07:19:21Z
+timeline:
+  created: 2023-02-09
+  lastCommit: 2026-08-28
+  lastRelease: 2026-08-24
+popularity:
+  star: 22543
+  watcher: 88
+  fork: 1246
+  release: 270
+  contributor: 438
+  pullRequest: 2601
+  issue: 4651
+language:
+  Rust: 36611385
+  JavaScript: 4146199
+  TypeScript: 3141427
+  Just: 10601
+  Shell: 9481
+  Vue: 6162
+  Svelte: 2917
+  Astro: 1222
+  Dockerfile: 232
+  MDX: 164
+  Go: 115
+  Ruby: 98
+  HTML: 82
+  CoffeeScript: 45
+  CSS: 40
+totalLine: 43930170
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 9
+    mergedPR: 640
+    openPR: 121
+    closedIssue: 117
+    openIssue: 71
+    commit: 692
+  last90d:
+    since: 2026-05-31
+    release: 27
+    mergedPR: 2183
+    openPR: 215
+    closedIssue: 350
+    openIssue: 175
+    commit: 2436
+  last180d:
+    since: 2026-03-02
+    release: 62
+    mergedPR: 3973
+    openPR: 252
+    closedIssue: 901
+    openIssue: 345
+    commit: 4542
+  last360d:
+    since: 2025-09-03
+    release: 100
+    mergedPR: 8443
+    openPR: 258
+    closedIssue: 1923
+    openIssue: 503
+    commit: 9471
