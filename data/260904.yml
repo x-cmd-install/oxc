@@ -1,27 +1,29 @@
 about:
-  description: ⚓ A collection of high-performance JavaScript tools.
+  description:
+  |
+    ⚓ A collection of high-performance JavaScript tools.
   license: MIT
   homepage: https://oxc.rs
-  head: 949d7a9
+  head: 04b8957
   archived: false
   latestVersion: apps_v1.81.0
-  collectedAt: 2026-09-04T05:01:29Z
+  collectedAt: 2026-09-04T19:58:01Z
 timeline:
   created: 2023-02-09
-  lastCommit: 2026-09-03
+  lastCommit: 2026-09-04
   lastRelease: 2026-09-01
 popularity:
-  star: 22626
+  star: 22637
   watcher: 89
-  fork: 1269
+  fork: 1273
   release: 272
-  contributor: 441
-  pullRequest: 2642
-  issue: 4683
+  contributor: 442
+  pullRequest: 21208
+  issue: 4687
 language:
-  Rust: 36745924
-  JavaScript: 4146799
-  TypeScript: 3157218
+  Rust: 36771030
+  JavaScript: 4146286
+  TypeScript: 3157821
   Just: 13052
   Shell: 9481
   Vue: 6162
@@ -34,37 +36,63 @@ language:
   HTML: 82
   CoffeeScript: 45
   CSS: 40
-totalLine: 44083551
+totalBytes: 44108747
 recent:
   last30d:
     since: 2026-08-05
     release: 10
-    mergedPR: 596
-    openPR: 138
-    closedIssue: 112
-    openIssue: 73
-    commit: 626
+    mergedPR: 615
+    openPR: 134
+    closedIssue: 113
+    openIssue: 76
+    commit: 646
+  last60d:
+    since: 2026-07-06
+    release: 19
+    mergedPR: 1326
+    openPR: 203
+    closedIssue: 240
+    openIssue: 133
+    commit: 1394
   last90d:
     since: 2026-06-06
     release: 27
-    mergedPR: 2144
-    openPR: 242
-    closedIssue: 361
-    openIssue: 180
-    commit: 2356
+    mergedPR: 2163
+    openPR: 238
+    closedIssue: 362
+    openIssue: 183
+    commit: 2376
   last180d:
     since: 2026-03-08
     release: 62
-    mergedPR: 3953
-    openPR: 280
-    closedIssue: 887
-    openIssue: 337
-    commit: 4488
+    mergedPR: 3972
+    openPR: 276
+    closedIssue: 888
+    openIssue: 340
+    commit: 4508
   last360d:
     since: 2025-09-09
     release: 100
-    mergedPR: 8467
-    openPR: 290
-    closedIssue: 1940
-    openIssue: 499
-    commit: 9458
+    mergedPR: 8486
+    openPR: 286
+    closedIssue: 1941
+    openIssue: 502
+    commit: 9478
+  last720d:
+    since: 2024-09-14
+    release: 100
+    mergedPR: 14409
+    openPR: 286
+    closedIssue: 3084
+    openIssue: 546
+    commit: 14667
+total:
+  release: 272
+  mergedPR: 18569
+  openPR: 286
+  closedIssue: 4130
+  openIssue: 557
+  commit: 20228
+---
+---
+
