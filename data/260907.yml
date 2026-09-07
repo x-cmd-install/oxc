@@ -1,0 +1,248 @@
+about:
+  description: "⚓ A collection of high-performance JavaScript tools."
+  license: MIT
+  homepage: https://oxc.rs
+  head: affeb14
+  archived: false
+  latestVersion: "apps_v1.81.0"
+  collectedAt: 2026-09-07T05:57:48Z
+timeline:
+  created: 2023-02-09
+  lastCommit: 2026-09-07
+  lastRelease: 2026-09-01
+popularity:
+  star: 22661
+  watcher: 90
+  fork: 1274
+  release: 272
+  contributor: 442
+  pullRequest: 21237
+  issue: 4692
+language:
+  Rust: 36785123
+  JavaScript: 4147262
+  TypeScript: 3159234
+  Just: 13052
+  Shell: 9481
+  Vue: 6162
+  Svelte: 2917
+  Astro: 1222
+  Dockerfile: 232
+  MDX: 164
+  Go: 115
+  Ruby: 98
+  HTML: 82
+  CoffeeScript: 45
+  CSS: 40
+totalBytes: 44125229
+recent:
+  last30d:
+    since: 2026-08-08
+    release: 9
+    mergedPR: 579
+    openPR: 124
+    closedIssue: 113
+    openIssue: 71
+    commit: 471
+  last60d:
+    since: 2026-07-09
+    release: 17
+    mergedPR: 1294
+    openPR: 195
+    closedIssue: 234
+    openIssue: 124
+    commit: 1223
+  last90d:
+    since: 2026-06-09
+    release: 25
+    mergedPR: 2089
+    openPR: 235
+    closedIssue: 356
+    openIssue: 175
+    commit: 2149
+  last180d:
+    since: 2026-03-11
+    release: 61
+    mergedPR: 3942
+    openPR: 274
+    closedIssue: 854
+    openIssue: 333
+    commit: 4379
+  last360d:
+    since: 2025-09-12
+    release: 100
+    mergedPR: 8437
+    openPR: 284
+    closedIssue: 1934
+    openIssue: 496
+    commit: 9328
+  last720d:
+    since: 2024-09-17
+    release: 100
+    mergedPR: 14388
+    openPR: 284
+    closedIssue: 3086
+    openIssue: 541
+    commit: 14666
+total:
+  release: 272
+  mergedPR: 18598
+  openPR: 284
+  closedIssue: 4140
+  openIssue: 552
+  commit: 20257
+---
+path: /home/runner/.x-repo/github.com/oxc-project/oxc
+collectedAt: 2026-09-07T05:58:28Z
+loc:
+  Rust:
+    code: 836963
+    comments: 40489
+    blanks: 79520
+    files: 2384
+  JavaScript:
+    code: 142786
+    comments: 9953
+    blanks: 14015
+    files: 3823
+  TypeScript:
+    code: 77764
+    comments: 22541
+    blanks: 10970
+    files: 1761
+  Json:
+    code: 28687
+    comments: 0
+    blanks: 36
+    files: 609
+  Yaml:
+    code: 9677
+    comments: 111
+    blanks: 2062
+    files: 36
+  Toml:
+    code: 3013
+    comments: 339
+    blanks: 447
+    files: 76
+  Jsx:
+    code: 2317
+    comments: 234
+    blanks: 255
+    files: 124
+  Tsx:
+    code: 2270
+    comments: 510
+    blanks: 389
+    files: 174
+  Sass:
+    code: 1045
+    comments: 357
+    blanks: 60
+    files: 56
+  Css:
+    code: 544
+    comments: 164
+    blanks: 32
+    files: 38
+  Graphql:
+    code: 299
+    comments: 49
+    blanks: 38
+    files: 14
+  Less:
+    code: 249
+    comments: 47
+    blanks: 2
+    files: 17
+  Vue:
+    code: 116
+    comments: 2
+    blanks: 15
+    files: 35
+  Sh:
+    code: 109
+    comments: 105
+    blanks: 60
+    files: 1
+  Svelte:
+    code: 47
+    comments: 0
+    blanks: 11
+    files: 13
+  Go:
+    code: 7
+    comments: 0
+    blanks: 2
+    files: 1
+  Ruby:
+    code: 7
+    comments: 0
+    blanks: 0
+    files: 2
+  Xml:
+    code: 5
+    comments: 0
+    blanks: 0
+    files: 1
+  CoffeeScript:
+    code: 2
+    comments: 0
+    blanks: 0
+    files: 2
+  Html:
+    code: 2
+    comments: 0
+    blanks: 0
+    files: 2
+  Markdown:
+    code: 0
+    comments: 138817
+    blanks: 37437
+    files: 576
+  Text:
+    code: 0
+    comments: 99
+    blanks: 15
+    files: 7
+total:
+  code: 1114142
+  comments: 285825
+  blanks: 164686
+  files: 9752
+---
+
+---
+eget:
+  collectedAt: 2026-09-07T05:58:31+00:00
+  platform:
+    darwin/arm64:
+      name:  null
+      url:   null
+      size:  null
+      score: null
+    darwin/amd64:
+      name:  null
+      url:   null
+      size:  null
+      score: null
+    linux/arm64:
+      name:  null
+      url:   null
+      size:  null
+      score: null
+    linux/amd64:
+      name:  null
+      url:   null
+      size:  null
+      score: null
+    win/arm64:
+      name:  null
+      url:   null
+      size:  null
+      score: null
+    win/amd64:
+      name:  null
+      url:   null
+      size:  null
+      score: null
