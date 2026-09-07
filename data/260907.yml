@@ -2,26 +2,26 @@ about:
   description: "⚓ A collection of high-performance JavaScript tools."
   license: MIT
   homepage: https://oxc.rs
-  head: affeb14
+  head: 32d00c5
   archived: false
-  latestVersion: "apps_v1.81.0"
-  collectedAt: 2026-09-07T05:57:48Z
+  latestVersion: "crates_v0.149.0"
+  collectedAt: 2026-09-07T18:39:00Z
 timeline:
   created: 2023-02-09
   lastCommit: 2026-09-07
-  lastRelease: 2026-09-01
+  lastRelease: 2026-09-07
 popularity:
-  star: 22661
+  star: 22672
   watcher: 90
-  fork: 1274
-  release: 272
-  contributor: 442
-  pullRequest: 21237
-  issue: 4692
+  fork: 1276
+  release: 274
+  contributor: 443
+  pullRequest: 21281
+  issue: 4696
 language:
-  Rust: 36785123
-  JavaScript: 4147262
-  TypeScript: 3159234
+  Rust: 37032383
+  JavaScript: 4147975
+  TypeScript: 3162348
   Just: 13052
   Shell: 9481
   Vue: 6162
@@ -34,91 +34,91 @@ language:
   HTML: 82
   CoffeeScript: 45
   CSS: 40
-totalBytes: 44125229
+totalBytes: 44376316
 recent:
   last30d:
     since: 2026-08-08
-    release: 9
-    mergedPR: 579
-    openPR: 124
-    closedIssue: 113
-    openIssue: 71
-    commit: 471
+    release: 11
+    mergedPR: 621
+    openPR: 122
+    closedIssue: 115
+    openIssue: 73
+    commit: 517
   last60d:
     since: 2026-07-09
-    release: 17
-    mergedPR: 1294
-    openPR: 195
-    closedIssue: 234
-    openIssue: 124
-    commit: 1223
+    release: 19
+    mergedPR: 1336
+    openPR: 193
+    closedIssue: 236
+    openIssue: 126
+    commit: 1269
   last90d:
     since: 2026-06-09
-    release: 25
-    mergedPR: 2089
-    openPR: 235
-    closedIssue: 356
-    openIssue: 175
-    commit: 2149
+    release: 27
+    mergedPR: 2131
+    openPR: 233
+    closedIssue: 358
+    openIssue: 177
+    commit: 2195
   last180d:
     since: 2026-03-11
-    release: 61
-    mergedPR: 3942
-    openPR: 274
-    closedIssue: 854
-    openIssue: 333
-    commit: 4379
+    release: 63
+    mergedPR: 3984
+    openPR: 272
+    closedIssue: 856
+    openIssue: 335
+    commit: 4425
   last360d:
     since: 2025-09-12
     release: 100
-    mergedPR: 8437
-    openPR: 284
-    closedIssue: 1934
-    openIssue: 496
-    commit: 9328
+    mergedPR: 8479
+    openPR: 282
+    closedIssue: 1936
+    openIssue: 498
+    commit: 9374
   last720d:
     since: 2024-09-17
     release: 100
-    mergedPR: 14388
-    openPR: 284
-    closedIssue: 3086
-    openIssue: 541
-    commit: 14666
+    mergedPR: 14430
+    openPR: 282
+    closedIssue: 3088
+    openIssue: 543
+    commit: 14708
 total:
-  release: 272
-  mergedPR: 18598
-  openPR: 284
-  closedIssue: 4140
-  openIssue: 552
-  commit: 20257
+  release: 274
+  mergedPR: 18640
+  openPR: 282
+  closedIssue: 4142
+  openIssue: 554
+  commit: 20299
 ---
 path: /home/runner/.x-repo/github.com/oxc-project/oxc
-collectedAt: 2026-09-07T05:58:28Z
+collectedAt: 2026-09-07T18:39:35Z
 loc:
   Rust:
-    code: 836963
-    comments: 40489
-    blanks: 79520
+    code: 843601
+    comments: 40520
+    blanks: 79598
     files: 2384
   JavaScript:
-    code: 142786
-    comments: 9953
-    blanks: 14015
-    files: 3823
+    code: 143190
+    comments: 9954
+    blanks: 14038
+    files: 3861
   TypeScript:
-    code: 77764
-    comments: 22541
-    blanks: 10970
-    files: 1761
+    code: 77833
+    comments: 22570
+    blanks: 10971
+    files: 1771
   Json:
-    code: 28687
+    code: 28754
     comments: 0
     blanks: 36
-    files: 609
+    files: 614
   Yaml:
-    code: 9677
+    code: 9627
     comments: 111
-    blanks: 2062
+    blanks: 2083
     files: 36
   Toml:
     code: 3013
@@ -197,8 +197,8 @@ loc:
     files: 2
   Markdown:
     code: 0
-    comments: 138817
-    blanks: 37437
+    comments: 139015
+    blanks: 37576
     files: 576
   Text:
     code: 0
@@ -206,15 +206,15 @@ loc:
     blanks: 15
     files: 7
 total:
-  code: 1114142
-  comments: 285825
-  blanks: 164686
-  files: 9752
+  code: 1121270
+  comments: 286133
+  blanks: 164958
+  files: 9805
 ---
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:58:31+00:00
+  collectedAt: 2026-09-07T18:39:38+00:00
   platform:
     darwin/arm64:
       name:  null
