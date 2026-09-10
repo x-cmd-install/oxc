@@ -2,12 +2,12 @@ about:
   description: "⚓ A collection of high-performance JavaScript tools."
   license: MIT
   homepage: https://oxc.rs
-  head: 4ae4301
+  head: d21d5cf
   archived: false
   latestVersion: "crates_v0.149.0"
   latestRelease: "crates_v0.149.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T06:04:09Z
+  collectedAt: 2026-09-10T17:51:57Z
 timeline:
   created: 2023-02-09
   lastCommit: 2026-09-10
@@ -15,17 +15,17 @@ timeline:
   lastRelease: 2026-09-07
   lastPrerelease: 
 popularity:
-  star: 22694
+  star: 22702
   watcher: 90
-  fork: 1282
+  fork: 1284
   release: 274
-  contributor: 443
-  pullRequest: 21365
-  issue: 4705
+  contributor: 445
+  pullRequest: 21386
+  issue: 4708
 language:
-  Rust: 37074739
-  JavaScript: 4148529
-  TypeScript: 3164367
+  Rust: 37120323
+  JavaScript: 4152837
+  TypeScript: 3169061
   Just: 13052
   Shell: 9481
   Vue: 6162
@@ -38,87 +38,87 @@ language:
   HTML: 82
   CoffeeScript: 45
   CSS: 40
-totalBytes: 44421245
+totalBytes: 44475831
 recent:
   last30d:
     since: 2026-08-11
     release: 9
-    mergedPR: 619
-    openPR: 126
-    closedIssue: 114
-    openIssue: 73
-    commit: 578
+    mergedPR: 641
+    openPR: 125
+    closedIssue: 116
+    openIssue: 74
+    commit: 603
   last60d:
     since: 2026-07-12
     release: 19
-    mergedPR: 1341
-    openPR: 202
-    closedIssue: 239
-    openIssue: 124
-    commit: 1330
+    mergedPR: 1363
+    openPR: 201
+    closedIssue: 241
+    openIssue: 125
+    commit: 1355
   last90d:
     since: 2026-06-12
     release: 27
-    mergedPR: 2079
-    openPR: 243
-    closedIssue: 353
+    mergedPR: 2101
+    openPR: 242
+    closedIssue: 356
     openIssue: 162
-    commit: 2256
+    commit: 2281
   last180d:
     since: 2026-03-14
     release: 58
-    mergedPR: 3970
-    openPR: 283
-    closedIssue: 836
+    mergedPR: 3992
+    openPR: 282
+    closedIssue: 839
     openIssue: 324
-    commit: 4486
+    commit: 4511
   last360d:
     since: 2025-09-15
     release: 100
-    mergedPR: 8507
-    openPR: 294
-    closedIssue: 1936
-    openIssue: 497
-    commit: 9435
+    mergedPR: 8529
+    openPR: 293
+    closedIssue: 1940
+    openIssue: 496
+    commit: 9460
   last720d:
     since: 2024-09-20
     release: 100
-    mergedPR: 14415
-    openPR: 294
-    closedIssue: 3090
-    openIssue: 544
-    commit: 14708
+    mergedPR: 14437
+    openPR: 293
+    closedIssue: 3094
+    openIssue: 543
+    commit: 14730
 total:
   release: 274
-  mergedPR: 18708
-  openPR: 294
-  closedIssue: 4150
-  openIssue: 555
-  commit: 20367
+  mergedPR: 18730
+  openPR: 293
+  closedIssue: 4154
+  openIssue: 554
+  commit: 20389
 ---
 path: /home/runner/.x-repo/github.com/oxc-project/oxc
-collectedAt: 2026-09-10T06:04:46Z
+collectedAt: 2026-09-10T17:52:32Z
 loc:
   Rust:
-    code: 845023
-    comments: 40278
-    blanks: 79643
-    files: 2399
+    code: 845839
+    comments: 40318
+    blanks: 79750
+    files: 2408
   JavaScript:
-    code: 143255
-    comments: 9967
-    blanks: 14044
-    files: 3869
+    code: 143429
+    comments: 9958
+    blanks: 14028
+    files: 3879
   TypeScript:
-    code: 77913
-    comments: 22574
-    blanks: 10976
-    files: 1784
+    code: 78022
+    comments: 22597
+    blanks: 11004
+    files: 1803
   Json:
-    code: 28777
+    code: 28783
     comments: 0
     blanks: 36
-    files: 616
+    files: 618
   Yaml:
     code: 9961
     comments: 115
@@ -130,10 +130,10 @@ loc:
     blanks: 447
     files: 76
   Jsx:
-    code: 2333
+    code: 2343
     comments: 239
     blanks: 257
-    files: 124
+    files: 126
   Tsx:
     code: 2270
     comments: 510
@@ -201,7 +201,7 @@ loc:
     files: 2
   Markdown:
     code: 0
-    comments: 139828
+    comments: 139829
     blanks: 37702
     files: 577
   Text:
@@ -210,10 +210,10 @@ loc:
     blanks: 15
     files: 7
 total:
-  code: 1123432
-  comments: 286725
-  blanks: 165272
-  files: 9857
+  code: 1124547
+  comments: 286909
+  blanks: 165414
+  files: 9899
 ---
 
 ---
