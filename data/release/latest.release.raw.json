@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 2381684,
       "digest": "sha256:2c0a483844922828a8b9b78684cb01e9283242250cad5d7303eb2cce0e027175",
-      "download_count": 124,
+      "download_count": 152,
       "created_at": "2026-09-07T14:56:54Z",
       "updated_at": "2026-09-07T14:56:55Z",
       "browser_download_url": "https://github.com/oxc-project/oxc/releases/download/apps_v1.82.0/oxfmt-aarch64-apple-darwin.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 2324569,
       "digest": "sha256:2e388e07c85f07f31a198e480d53c3984265795c40afb9909dc2088fb9e6bfd4",
-      "download_count": 71,
+      "download_count": 88,
       "created_at": "2026-09-07T14:56:54Z",
       "updated_at": "2026-09-07T14:56:55Z",
       "browser_download_url": "https://github.com/oxc-project/oxc/releases/download/apps_v1.82.0/oxfmt-aarch64-pc-windows-msvc.zip"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 2567267,
       "digest": "sha256:b738733446781432fc6874b9e9328def0c5cd1c69335bcf258078e429e4887e1",
-      "download_count": 59,
+      "download_count": 80,
       "created_at": "2026-09-07T14:56:54Z",
       "updated_at": "2026-09-07T14:56:55Z",
       "browser_download_url": "https://github.com/oxc-project/oxc/releases/download/apps_v1.82.0/oxfmt-aarch64-unknown-linux-gnu.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 2602099,
       "digest": "sha256:e556b6f20a62178e22072951562b372e38bf7fdd6ec29af7b62e49b45b0f4e82",
-      "download_count": 222,
+      "download_count": 287,
       "created_at": "2026-09-07T14:56:55Z",
       "updated_at": "2026-09-07T14:56:55Z",
       "browser_download_url": "https://github.com/oxc-project/oxc/releases/download/apps_v1.82.0/oxfmt-aarch64-unknown-linux-musl.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 2527754,
       "digest": "sha256:29cff5b05c8d1a9c16a13ced529363b8379dd56551aecb2715cd17b48e7c2d3b",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-09-07T14:56:54Z",
       "updated_at": "2026-09-07T14:56:55Z",
       "browser_download_url": "https://github.com/oxc-project/oxc/releases/download/apps_v1.82.0/oxfmt-armv7-unknown-linux-gnueabihf.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 2553501,
       "digest": "sha256:6570f18f92f49707cc103ca1957f8dea5fc155024016193441d64460545e373f",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-09-07T14:56:55Z",
       "updated_at": "2026-09-07T14:56:55Z",
       "browser_download_url": "https://github.com/oxc-project/oxc/releases/download/apps_v1.82.0/oxfmt-armv7-unknown-linux-musleabihf.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 2382214,
       "digest": "sha256:b02b9e5a0688f1154f96554c5c0f8eb8e885614fad5e0cb5db998402ee9dc229",
-      "download_count": 11,
+      "download_count": 13,
       "created_at": "2026-09-07T14:56:55Z",
       "updated_at": "2026-09-07T14:56:55Z",
       "browser_download_url": "https://github.com/oxc-project/oxc/releases/download/apps_v1.82.0/oxfmt-i686-pc-windows-msvc.zip"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 3003149,
       "digest": "sha256:a9f994d7ad580ff13cbd9ff24b3c7ae35115aa65e04addcb2accca8b2d6b0ad0",
-      "download_count": 40,
+      "download_count": 49,
       "created_at": "2026-09-07T14:56:55Z",
       "updated_at": "2026-09-07T14:56:55Z",
       "browser_download_url": "https://github.com/oxc-project/oxc/releases/download/apps_v1.82.0/oxfmt-powerpc64le-unknown-linux-gnu.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 2645869,
       "digest": "sha256:cfa5e23cff7a5cdee0eeaafd15da5f079697b22ee53e9367d36973f9a96644e6",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-09-07T14:56:55Z",
       "updated_at": "2026-09-07T14:56:56Z",
       "browser_download_url": "https://github.com/oxc-project/oxc/releases/download/apps_v1.82.0/oxfmt-riscv64gc-unknown-linux-gnu.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 2704776,
       "digest": "sha256:8d6f90bf9527b40caeb8cd629a9378585d1faa6f844fa23269310ef31f4fe340",
-      "download_count": 41,
+      "download_count": 50,
       "created_at": "2026-09-07T14:56:55Z",
       "updated_at": "2026-09-07T14:56:56Z",
       "browser_download_url": "https://github.com/oxc-project/oxc/releases/download/apps_v1.82.0/oxfmt-riscv64gc-unknown-linux-musl.tar.gz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 3020621,
       "digest": "sha256:0dfe52a5762ac6db0d9310d680c40552d3193d450c50c263532c2f39e31a9a0f",
-      "download_count": 40,
+      "download_count": 49,
       "created_at": "2026-09-07T14:56:55Z",
       "updated_at": "2026-09-07T14:56:56Z",
       "browser_download_url": "https://github.com/oxc-project/oxc/releases/download/apps_v1.82.0/oxfmt-s390x-unknown-linux-gnu.tar.gz"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 2650586,
       "digest": "sha256:20e82289d7f41399a4d9670a0d78135e14dbe04f421163be2cc0c120d3ad4fa1",
-      "download_count": 65,
+      "download_count": 81,
       "created_at": "2026-09-07T14:56:56Z",
       "updated_at": "2026-09-07T14:56:56Z",
       "browser_download_url": "https://github.com/oxc-project/oxc/releases/download/apps_v1.82.0/oxfmt-x86_64-apple-darwin.tar.gz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 2460600,
       "digest": "sha256:33f689a983f3332296b71071409468936db49da03364f081a6359a49aa9daa2e",
-      "download_count": 226,
+      "download_count": 299,
       "created_at": "2026-09-07T14:56:56Z",
       "updated_at": "2026-09-07T14:56:56Z",
       "browser_download_url": "https://github.com/oxc-project/oxc/releases/download/apps_v1.82.0/oxfmt-x86_64-pc-windows-msvc.zip"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 2683836,
       "digest": "sha256:327b6bf0ed4ed78012cf715850f0fd3ee99702b59be9538eeb1cda919cac50dc",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-09-07T14:56:56Z",
       "updated_at": "2026-09-07T14:56:56Z",
       "browser_download_url": "https://github.com/oxc-project/oxc/releases/download/apps_v1.82.0/oxfmt-x86_64-unknown-freebsd.tar.gz"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 2762328,
       "digest": "sha256:7fcda58499e25a261069022f3c6b9827da4bcc729a6181214c0645b3e30d1603",
-      "download_count": 581,
+      "download_count": 657,
       "created_at": "2026-09-07T14:56:56Z",
       "updated_at": "2026-09-07T14:56:56Z",
       "browser_download_url": "https://github.com/oxc-project/oxc/releases/download/apps_v1.82.0/oxfmt-x86_64-unknown-linux-gnu.tar.gz"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 2819931,
       "digest": "sha256:34a93eb12f3645a61d758955d0985a897d76f4e31986deb076efbe16505a55e2",
-      "download_count": 547,
+      "download_count": 781,
       "created_at": "2026-09-07T14:56:56Z",
       "updated_at": "2026-09-07T14:56:56Z",
       "browser_download_url": "https://github.com/oxc-project/oxc/releases/download/apps_v1.82.0/oxfmt-x86_64-unknown-linux-musl.tar.gz"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 5684569,
       "digest": "sha256:e420b7f67fc1ec5426c932a7e5b07e546c67c661c9b7116ba6c8c9648ff96074",
-      "download_count": 103,
+      "download_count": 122,
       "created_at": "2026-09-07T14:56:56Z",
       "updated_at": "2026-09-07T14:56:57Z",
       "browser_download_url": "https://github.com/oxc-project/oxc/releases/download/apps_v1.82.0/oxlint-aarch64-apple-darwin.tar.gz"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 5566790,
       "digest": "sha256:54326a15c8dd457093b10e8e0f0ba981974dde9688b6c3fccd96340cab777f76",
-      "download_count": 21,
+      "download_count": 22,
       "created_at": "2026-09-07T14:56:56Z",
       "updated_at": "2026-09-07T14:56:57Z",
       "browser_download_url": "https://github.com/oxc-project/oxc/releases/download/apps_v1.82.0/oxlint-aarch64-pc-windows-msvc.zip"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 6069888,
       "digest": "sha256:0c59db096ce59b5d690b3e7c75d5b729e565e730634f067d352ce7eb857d944a",
-      "download_count": 64,
+      "download_count": 86,
       "created_at": "2026-09-07T14:56:56Z",
       "updated_at": "2026-09-07T14:56:57Z",
       "browser_download_url": "https://github.com/oxc-project/oxc/releases/download/apps_v1.82.0/oxlint-aarch64-unknown-linux-gnu.tar.gz"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 6082060,
       "digest": "sha256:84fb0260566a02e3fdb60472a4195ebc491115029ea11b91c9b8d8ee234f62c9",
-      "download_count": 12,
+      "download_count": 13,
       "created_at": "2026-09-07T14:56:56Z",
       "updated_at": "2026-09-07T14:56:57Z",
       "browser_download_url": "https://github.com/oxc-project/oxc/releases/download/apps_v1.82.0/oxlint-aarch64-unknown-linux-musl.tar.gz"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 5893766,
       "digest": "sha256:55fe3acedf19e7154abbd882ad6db1bd3ebbc90d2610c2148b1e7205dd496408",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-09-07T14:56:57Z",
       "updated_at": "2026-09-07T14:56:57Z",
       "browser_download_url": "https://github.com/oxc-project/oxc/releases/download/apps_v1.82.0/oxlint-armv7-unknown-linux-gnueabihf.tar.gz"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 5913408,
       "digest": "sha256:e50f21b6b885fabc456ec98e4506841427f200a8ced749aea7b6920900d122fb",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-09-07T14:56:57Z",
       "updated_at": "2026-09-07T14:56:57Z",
       "browser_download_url": "https://github.com/oxc-project/oxc/releases/download/apps_v1.82.0/oxlint-armv7-unknown-linux-musleabihf.tar.gz"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 5693448,
       "digest": "sha256:6bb66585710c1cc4665a293b43cf712a781d6333edb3725272f1f6c1891be14a",
-      "download_count": 18,
+      "download_count": 19,
       "created_at": "2026-09-07T14:56:57Z",
       "updated_at": "2026-09-07T14:56:57Z",
       "browser_download_url": "https://github.com/oxc-project/oxc/releases/download/apps_v1.82.0/oxlint-i686-pc-windows-msvc.zip"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 7137537,
       "digest": "sha256:ea2cbf6bc81b4e09dfad4372d2833d0f64add3a2a7b9d4be1a481f0b66e6f508",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-09-07T14:56:57Z",
       "updated_at": "2026-09-07T14:56:58Z",
       "browser_download_url": "https://github.com/oxc-project/oxc/releases/download/apps_v1.82.0/oxlint-powerpc64le-unknown-linux-gnu.tar.gz"
@@ -931,7 +931,7 @@
       "state": "uploaded",
       "size": 6560908,
       "digest": "sha256:f04aeb1818c6218a71bccb2a2abc67cc1371909c0a83c4b0e53e15fbeb126bea",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-09-07T14:56:57Z",
       "updated_at": "2026-09-07T14:56:58Z",
       "browser_download_url": "https://github.com/oxc-project/oxc/releases/download/apps_v1.82.0/oxlint-riscv64gc-unknown-linux-gnu.tar.gz"
@@ -967,7 +967,7 @@
       "state": "uploaded",
       "size": 6676955,
       "digest": "sha256:8ae8ed3bf3673533d14d28eff782c1c043a83b2a2a651bf0b6f02d5458a29e5a",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-09-07T14:56:57Z",
       "updated_at": "2026-09-07T14:56:58Z",
       "browser_download_url": "https://github.com/oxc-project/oxc/releases/download/apps_v1.82.0/oxlint-riscv64gc-unknown-linux-musl.tar.gz"
@@ -1003,7 +1003,7 @@
       "state": "uploaded",
       "size": 7173223,
       "digest": "sha256:beb03796db0f0e7539927fdf7f0b0a1df44fd75d16294b3ea3af5b524d284c37",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-09-07T14:56:58Z",
       "updated_at": "2026-09-07T14:56:58Z",
       "browser_download_url": "https://github.com/oxc-project/oxc/releases/download/apps_v1.82.0/oxlint-s390x-unknown-linux-gnu.tar.gz"
@@ -1039,7 +1039,7 @@
       "state": "uploaded",
       "size": 6310684,
       "digest": "sha256:42206a631be5a65e4f32de5983e9e8991197ef2756870c257a5db2e6f493a86f",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-09-07T14:56:58Z",
       "updated_at": "2026-09-07T14:56:58Z",
       "browser_download_url": "https://github.com/oxc-project/oxc/releases/download/apps_v1.82.0/oxlint-x86_64-apple-darwin.tar.gz"
@@ -1075,7 +1075,7 @@
       "state": "uploaded",
       "size": 5940527,
       "digest": "sha256:9b4a908929e005c5c63e9773267867a945d7812d9e3175e864b75a6f22426e47",
-      "download_count": 147,
+      "download_count": 153,
       "created_at": "2026-09-07T14:56:58Z",
       "updated_at": "2026-09-07T14:56:58Z",
       "browser_download_url": "https://github.com/oxc-project/oxc/releases/download/apps_v1.82.0/oxlint-x86_64-pc-windows-msvc.zip"
@@ -1111,7 +1111,7 @@
       "state": "uploaded",
       "size": 6464184,
       "digest": "sha256:1c8574caf5a03e0a05e010979431246bba5605de10531c9db10d3d6ecc0cbb13",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-09-07T14:56:58Z",
       "updated_at": "2026-09-07T14:56:59Z",
       "browser_download_url": "https://github.com/oxc-project/oxc/releases/download/apps_v1.82.0/oxlint-x86_64-unknown-freebsd.tar.gz"
@@ -1147,7 +1147,7 @@
       "state": "uploaded",
       "size": 6569413,
       "digest": "sha256:2284a516360c42166b9f0b1c1aa6920322d3385d93a7ff7061d2d8ed77ec1e35",
-      "download_count": 775,
+      "download_count": 868,
       "created_at": "2026-09-07T14:56:58Z",
       "updated_at": "2026-09-07T14:56:58Z",
       "browser_download_url": "https://github.com/oxc-project/oxc/releases/download/apps_v1.82.0/oxlint-x86_64-unknown-linux-gnu.tar.gz"
@@ -1183,7 +1183,7 @@
       "state": "uploaded",
       "size": 6632621,
       "digest": "sha256:20f1b45176de30e49c983ff4a701383901ba24564239925bc7a0d0ae871c3187",
-      "download_count": 175,
+      "download_count": 192,
       "created_at": "2026-09-07T14:56:58Z",
       "updated_at": "2026-09-07T14:56:59Z",
       "browser_download_url": "https://github.com/oxc-project/oxc/releases/download/apps_v1.82.0/oxlint-x86_64-unknown-linux-musl.tar.gz"
