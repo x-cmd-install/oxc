@@ -14,11 +14,11 @@ x install oxc
 
 ## Code insight
 
-Total: **1,116,212** lines of code across **8749** files in the top 5 languages.
+Total: **1,116,085** lines of code across **8751** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 845,754 | 40,306 | 79,735 | 2408 |
+| Rust | 845,627 | 40,306 | 79,879 | 2410 |
 | JavaScript | 143,438 | 9,964 | 14,033 | 3879 |
 | TypeScript | 78,061 | 22,613 | 11,009 | 1805 |
 | Json | 28,783 | 0 | 36 | 618 |
@@ -38,22 +38,22 @@ Total: **1,116,212** lines of code across **8749** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 22,708 · **Forks**: 1,284 · **Open issues**: 4,709 · **Contributors**: 445
+- **Stars**: 22,714 · **Forks**: 1,285 · **Open issues**: 4,713 · **Contributors**: 445
 
 ## Totals (cumulative)
 
-- **Releases**: 274 · **Merged PRs**: 18735 · **Open PRs**: 295 · **Closed issues**: 4154 · **Open issues**: 555 · **Commits**: 20394
+- **Releases**: 274 · **Merged PRs**: 18740 · **Open PRs**: 297 · **Closed issues**: 4155 · **Open issues**: 558 · **Commits**: 20399
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 9 | 606 | 122 | 111 | 69 | 608 |
-| last60d | 2026-07-13 | 19 | 1329 | 203 | 236 | 125 | 1360 |
-| 90d | 2026-06-13 | 27 | 2082 | 244 | 351 | 163 | 2286 |
-| last180d | 2026-03-15 | 57 | 3985 | 284 | 837 | 325 | 4516 |
-| 360d | 2025-09-16 | 100 | 8502 | 295 | 1935 | 497 | 9465 |
-| last720d | 2024-09-21 | 100 | 14428 | 295 | 3090 | 544 | 14699 |
+| 30d | 2026-08-12 | 9 | 611 | 125 | 111 | 73 | 613 |
+| last60d | 2026-07-13 | 19 | 1334 | 206 | 236 | 129 | 1365 |
+| 90d | 2026-06-13 | 27 | 2087 | 246 | 351 | 167 | 2291 |
+| last180d | 2026-03-15 | 57 | 3990 | 286 | 838 | 328 | 4521 |
+| 360d | 2025-09-16 | 100 | 8507 | 297 | 1936 | 500 | 9470 |
+| last720d | 2024-09-21 | 100 | 14433 | 297 | 3091 | 547 | 14704 |
 
 ## Release assets
 
@@ -101,4 +101,4 @@ Install metadata for oxc lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T05:58:37Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T18:54:04Z._
