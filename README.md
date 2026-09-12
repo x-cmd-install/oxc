@@ -38,22 +38,22 @@ Total: **1,116,085** lines of code across **8751** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 22,714 · **Forks**: 1,285 · **Open issues**: 4,713 · **Contributors**: 445
+- **Stars**: 22,717 · **Forks**: 1,287 · **Open issues**: 4,715 · **Contributors**: 445
 
 ## Totals (cumulative)
 
-- **Releases**: 274 · **Merged PRs**: 18740 · **Open PRs**: 297 · **Closed issues**: 4155 · **Open issues**: 558 · **Commits**: 20399
+- **Releases**: 274 · **Merged PRs**: 18740 · **Open PRs**: 303 · **Closed issues**: 4155 · **Open issues**: 560 · **Commits**: 20399
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 9 | 611 | 125 | 111 | 73 | 613 |
-| last60d | 2026-07-13 | 19 | 1334 | 206 | 236 | 129 | 1365 |
-| 90d | 2026-06-13 | 27 | 2087 | 246 | 351 | 167 | 2291 |
-| last180d | 2026-03-15 | 57 | 3990 | 286 | 838 | 328 | 4521 |
-| 360d | 2025-09-16 | 100 | 8507 | 297 | 1936 | 500 | 9470 |
-| last720d | 2024-09-21 | 100 | 14433 | 297 | 3091 | 547 | 14704 |
+| 30d | 2026-08-13 | 9 | 579 | 130 | 88 | 64 | 613 |
+| last60d | 2026-07-14 | 19 | 1296 | 210 | 233 | 130 | 1365 |
+| 90d | 2026-06-14 | 27 | 2063 | 252 | 350 | 169 | 2291 |
+| last180d | 2026-03-16 | 57 | 3975 | 292 | 830 | 326 | 4521 |
+| 360d | 2025-09-17 | 100 | 8485 | 303 | 1930 | 502 | 9470 |
+| last720d | 2024-09-22 | 100 | 14415 | 303 | 3089 | 549 | 14687 |
 
 ## Release assets
 
@@ -101,4 +101,4 @@ Install metadata for oxc lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T18:54:04Z._
+_Snapshot: `data/card/260912.yml` · 2026-09-12T06:09:44Z._
