@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 2392128,
       "digest": "sha256:f844ff4c34840858773ee167d9ec9626375d42a9441d2d41e2f2b841221f4851",
-      "download_count": 52,
+      "download_count": 78,
       "created_at": "2026-09-14T12:12:09Z",
       "updated_at": "2026-09-14T12:12:10Z",
       "browser_download_url": "https://github.com/oxc-project/oxc/releases/download/apps_v1.83.0/oxfmt-aarch64-apple-darwin.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 2334855,
       "digest": "sha256:18990b52b7ffd13b6a4db1b336216656a183eee81d49d68af9af1224ea0e066f",
-      "download_count": 35,
+      "download_count": 46,
       "created_at": "2026-09-14T12:12:09Z",
       "updated_at": "2026-09-14T12:12:10Z",
       "browser_download_url": "https://github.com/oxc-project/oxc/releases/download/apps_v1.83.0/oxfmt-aarch64-pc-windows-msvc.zip"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 2578127,
       "digest": "sha256:68903587f63222f5fd51f9fe01c3868e24ca04519553a23cfc484ed2c71a2b61",
-      "download_count": 19,
+      "download_count": 29,
       "created_at": "2026-09-14T12:12:09Z",
       "updated_at": "2026-09-14T12:12:10Z",
       "browser_download_url": "https://github.com/oxc-project/oxc/releases/download/apps_v1.83.0/oxfmt-aarch64-unknown-linux-gnu.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 2611486,
       "digest": "sha256:984d8ce4e18666f5a15fca5a28d0032dc04000385babfbc4a1c5f6cc67de9b4d",
-      "download_count": 92,
+      "download_count": 144,
       "created_at": "2026-09-14T12:12:09Z",
       "updated_at": "2026-09-14T12:12:10Z",
       "browser_download_url": "https://github.com/oxc-project/oxc/releases/download/apps_v1.83.0/oxfmt-aarch64-unknown-linux-musl.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 3023431,
       "digest": "sha256:32c0d789190e780455dc1f2ee23d27f235f1a1e860b197bfb55f270331442735",
-      "download_count": 20,
+      "download_count": 26,
       "created_at": "2026-09-14T12:12:10Z",
       "updated_at": "2026-09-14T12:12:11Z",
       "browser_download_url": "https://github.com/oxc-project/oxc/releases/download/apps_v1.83.0/oxfmt-powerpc64le-unknown-linux-gnu.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 2716003,
       "digest": "sha256:dfe8509748976f1f331e34726a23e436a9869ca1c62b0f6928dbe0a1358aa34a",
-      "download_count": 20,
+      "download_count": 26,
       "created_at": "2026-09-14T12:12:10Z",
       "updated_at": "2026-09-14T12:12:11Z",
       "browser_download_url": "https://github.com/oxc-project/oxc/releases/download/apps_v1.83.0/oxfmt-riscv64gc-unknown-linux-musl.tar.gz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 3029778,
       "digest": "sha256:f6c8e1f81afb5ae6e4d274e574dd345852576980cf8009f8a5407fa99247530e",
-      "download_count": 20,
+      "download_count": 26,
       "created_at": "2026-09-14T12:12:11Z",
       "updated_at": "2026-09-14T12:12:11Z",
       "browser_download_url": "https://github.com/oxc-project/oxc/releases/download/apps_v1.83.0/oxfmt-s390x-unknown-linux-gnu.tar.gz"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 2665585,
       "digest": "sha256:7c78731ff964ffac4edab3e807ed16c5ced4141da3483383825a3feb95d9e6e9",
-      "download_count": 27,
+      "download_count": 39,
       "created_at": "2026-09-14T12:12:11Z",
       "updated_at": "2026-09-14T12:12:11Z",
       "browser_download_url": "https://github.com/oxc-project/oxc/releases/download/apps_v1.83.0/oxfmt-x86_64-apple-darwin.tar.gz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 2472465,
       "digest": "sha256:5dd941b1cdf4afcbe4725cace6ba0713d03f898351a0bf1d4165da89b30f6c5a",
-      "download_count": 79,
+      "download_count": 115,
       "created_at": "2026-09-14T12:12:11Z",
       "updated_at": "2026-09-14T12:12:11Z",
       "browser_download_url": "https://github.com/oxc-project/oxc/releases/download/apps_v1.83.0/oxfmt-x86_64-pc-windows-msvc.zip"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 2774459,
       "digest": "sha256:ae861bf54ee7c775c78794d918f283ac3ce9d8ab68252182542b34dc222bce24",
-      "download_count": 179,
+      "download_count": 270,
       "created_at": "2026-09-14T12:12:11Z",
       "updated_at": "2026-09-14T12:12:12Z",
       "browser_download_url": "https://github.com/oxc-project/oxc/releases/download/apps_v1.83.0/oxfmt-x86_64-unknown-linux-gnu.tar.gz"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 2832964,
       "digest": "sha256:73e0917eb36e53d2529b7c9e45ad7035da1e501580d9dff566362563bdd99c46",
-      "download_count": 144,
+      "download_count": 222,
       "created_at": "2026-09-14T12:12:12Z",
       "updated_at": "2026-09-14T12:12:12Z",
       "browser_download_url": "https://github.com/oxc-project/oxc/releases/download/apps_v1.83.0/oxfmt-x86_64-unknown-linux-musl.tar.gz"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 5690443,
       "digest": "sha256:18021b3bc2557e1cb9bb912ff7ae730d877f3e2ba1e06f98c75a979e5fa3a97e",
-      "download_count": 51,
+      "download_count": 80,
       "created_at": "2026-09-14T12:12:12Z",
       "updated_at": "2026-09-14T12:12:12Z",
       "browser_download_url": "https://github.com/oxc-project/oxc/releases/download/apps_v1.83.0/oxlint-aarch64-apple-darwin.tar.gz"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 5572830,
       "digest": "sha256:627dcb57b930a47f404023429f0028933a027a29d7911836e9cf44a4dcff50f3",
-      "download_count": 22,
+      "download_count": 23,
       "created_at": "2026-09-14T12:12:12Z",
       "updated_at": "2026-09-14T12:12:12Z",
       "browser_download_url": "https://github.com/oxc-project/oxc/releases/download/apps_v1.83.0/oxlint-aarch64-pc-windows-msvc.zip"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 6075586,
       "digest": "sha256:612b6f36ff61a19a604bf2a51f7d1a9528c3cbbb73eccb43a07e55d89ca19d8b",
-      "download_count": 25,
+      "download_count": 35,
       "created_at": "2026-09-14T12:12:12Z",
       "updated_at": "2026-09-14T12:12:12Z",
       "browser_download_url": "https://github.com/oxc-project/oxc/releases/download/apps_v1.83.0/oxlint-aarch64-unknown-linux-gnu.tar.gz"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 5698341,
       "digest": "sha256:18af2e40211b5142829ee1c3d607648f6dd23d0e0fdcd59a8ee55896e260edc3",
-      "download_count": 22,
+      "download_count": 23,
       "created_at": "2026-09-14T12:12:13Z",
       "updated_at": "2026-09-14T12:12:13Z",
       "browser_download_url": "https://github.com/oxc-project/oxc/releases/download/apps_v1.83.0/oxlint-i686-pc-windows-msvc.zip"
@@ -1075,7 +1075,7 @@
       "state": "uploaded",
       "size": 5947964,
       "digest": "sha256:42deff7e157277f812365886eba1a7f37e19998341f7713de9a0451e9534e5f5",
-      "download_count": 105,
+      "download_count": 149,
       "created_at": "2026-09-14T12:12:14Z",
       "updated_at": "2026-09-14T12:12:14Z",
       "browser_download_url": "https://github.com/oxc-project/oxc/releases/download/apps_v1.83.0/oxlint-x86_64-pc-windows-msvc.zip"
@@ -1147,7 +1147,7 @@
       "state": "uploaded",
       "size": 6577083,
       "digest": "sha256:4995c0f6a55ed8aa611a7c5461dd4d61cdc41ce767d6d92aae665d135b50e5a1",
-      "download_count": 290,
+      "download_count": 492,
       "created_at": "2026-09-14T12:12:14Z",
       "updated_at": "2026-09-14T12:12:15Z",
       "browser_download_url": "https://github.com/oxc-project/oxc/releases/download/apps_v1.83.0/oxlint-x86_64-unknown-linux-gnu.tar.gz"
@@ -1183,7 +1183,7 @@
       "state": "uploaded",
       "size": 6644201,
       "digest": "sha256:ffb6b0de929cf5628aee19973208f3a52fd17c1dddae6577436b09d8fc12ecd2",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-09-14T12:12:14Z",
       "updated_at": "2026-09-14T12:12:15Z",
       "browser_download_url": "https://github.com/oxc-project/oxc/releases/download/apps_v1.83.0/oxlint-x86_64-unknown-linux-musl.tar.gz"
@@ -1194,11 +1194,11 @@
   "body": "## Table of Contents\n\n- [Oxlint v1.83.0](#oxlint-v1.83.0)\n- [Oxfmt v0.68.0](#oxfmt-v0.68.0)\n\n## Oxlint v1.83.0\n### 🚀 Features\n\n- afe950d linter/react: Update lint rules to accomodate changes in React 19.3 (#26571) (Connor Shea)\n\n### 🐛 Bug Fixes\n\n- fb87ed7 linter/unicorn/prefer-array-flat-map: Report `.filter().flatMap()` chains (#26626) (camc314)\n- 336b654 linter/unicorn/prefer-at: Report single-character substring calls (#26623) (camc314)\n- a5bba6d linter/eslint/no-unused-vars: Respect rest params after-used option (#26579) (Bartok)\n- c1470a2 linter/eslint/no-unused-vars: Preserve ambient implicit exports (#26582) (Dex Hunter)\n- 9a469d2 linter/unicorn/prefer-global-this: Preserve window event method references (#26611) (Dex Hunter)\n- aaff758 linter/unicorn/prefer-default-parameters: Report violation for `??=` and `||=` (#26607) (Bartok)\n- 2bed25a linter/unicorn/prefer-array-flat: Skip plain `concat` normalization (#26604) (im10furry)\n- 72bc7f2 oxlint: Replace backlashes path for \"no js runtime\" diagnostic (#26599) (Sysix)\n- 1aa5ec1 linter/typescript/prefer-for-of: Handle computed collections (#26584) (camc314)\n- 1e90019 linter/typescript: Mark `no-unnecessary-type-parameters` and `prefer-find` suggestions as implemented (#26586) (Mikhail Baev)\n- 4231536 linter: Compare label text in runtime optimization assertion (#26526) (camc314)\n- 36d5534 linter: Include file path in diagnostic assertion (#26525) (camc314)\n- 31508b1 parser: Reject return types on constructor overloads (#26523) (camc314)\n\n### ⚡ Performance\n\n- 1d681b0 linter/react/jsx-pascal-case: Avoid temporary name segment vector (#26531) (camc314)\n- 2ad7d49 linter/promise/catch-or-return: Avoid temporary formatting vectors (#26505) (camc314)\n- 203235b linter/jsx-a11y/no-static-element-interactions: Avoid role vector (#26504) (camc314)\n- 2e95167 linter/jsx-a11y/anchor-is-valid: Avoid temporary attribute vector (#26501) (camc314)\n- deafdba linter/react/exhaustive-deps: Avoid temporary dependency vector (#26502) (camc314)\n- 4f1627f linter/oxc/branches-sharing-code: Compute deletion spans lazily (#26500) (camc314)\n- c068fd2 linter/react/jsx-curly-brace-presence: Avoid newline position allocation (#26499) (camc314)\n- ed4357c linter/eslint/no-restricted-properties: Skip empty configurations (#26497) (camc314)\n- 92e41b7 linter/oxc/no-barrel-file: Iterate module requests directly (#26498) (camc314)\n- 5255ee3 linter/unicorn/prefer-single-call: Avoid temporary argument vector (#26494) (camc314)\n- 96ef365 linter/unicorn/prefer-includes: Reduce suggestion allocations (#26492) (camc314)\n- a71fd7f linter/unicorn/no-new-buffer: Avoid temporary argument vector (#26491) (camc314)\n- 11085e7 linter/jsdoc/require-yields: Short-circuit JSDoc checks (#26488) (camc314)\n- 9b1aff8 linter/unicorn/no-useless-undefined: Skip calls without trailing undefined (#26481) (camc314)\n- 1e5d5d7 linter/eslint/no-unused-vars: Skip absent global declaration checks (#26457) (camc314)\n- 403f899 linter/eslint/no-undef: Check globals once per unresolved name (#26456) (camc314)\n- 118adb0 linter/eslint/no-restricted-imports: Avoid redundant import scans (#26455) (camc314)\n- ab848f2 linter/eslint/no-useless-assignment: Skip tracking exported symbols (#26449) (camc314)\n- 1b6e409 linter/unicorn/prefer-object-from-entries: Avoid allocating configured paths (#26448) (camc314)\n- 2206875 linter/eslint/new-cap: Avoid unnecessary callee name allocations (#26447) (camc314)\n\n### 📚 Documentation\n\n- b927e0a linter/typescript/await-thenable: Add missing lang for markdown doc comment (#26438) (Ari Perkkiö)\n\n## Oxfmt v0.68.0\n### 🚀 Features\n\n- 586f27a formatter_core: Add `prefix_align` builder and `Tag::(Start|End)Prefix` (#26520) (leaysgur)\n- dc45cc3 formatter_test: Test Prettier dynamic snippet tests (#26469) (leaysgur)\n\n### 🐛 Bug Fixes\n\n- d7e0c82 formatter: Keep an enum member's trailing suppress comment (#26549) (leaysgur)\n- d2fe01e formatter: Unify suppress comment behavior (#26547) (leaysgur)\n- d35d89f oxfmt: Skip shutdown delay on fixed Node 24 releases (#26518) (Pablo García)\n- aef8b4a formatter_css: Handle less-test-suites failures (#26513) (leaysgur)\n- 9dbddca formatter: Keep group flat for own-line comment in JSX (#26475) (leaysgur)\n- d226e6f formatter_yaml: Bump oxc-yaml-parser to 0.0.6 (#26472) (leaysgur)\n- 8b41fc0 formatter_yaml: Clamp `tab_width: 0` to 1 to keep semantics (#26471) (leaysgur)\n- dea2ba0 formatter_core: Do not panic with align(0) (#26468) (leaysgur)\n- bf1d3f6 formatter: Check `this_param` for simple parameters test (#26474) (leaysgur)\n- 33cdc84 formatter: Keep cast-target assignment and commented parameter patterns (#26429) (leaysgur)\n- 876fbe3 oxfmt: Expand `Fill` parts in tsx-in-vue (#26427) (leaysgur)\n\n### 📚 Documentation\n\n- 66fda4f formatter: Update AGENTS.md comment handling (#26551) (leaysgur)\n- 41abcba formatter: Note why jsx-test-suite snippets stay off (#26515) (leaysgur)",
   "reactions": {
     "url": "https://api.github.com/repos/oxc-project/oxc/releases/388368428/reactions",
-    "total_count": 10,
+    "total_count": 11,
     "+1": 0,
     "-1": 0,
     "laugh": 0,
-    "hooray": 4,
+    "hooray": 5,
     "confused": 0,
     "heart": 4,
     "rocket": 2,
