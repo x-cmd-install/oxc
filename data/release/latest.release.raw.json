@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 5530587,
       "digest": "sha256:53b0cdbf1696b88293db648901a76785d5a3a4f98aeeb0a2be2b8d2eb8c44642",
-      "download_count": 3,
+      "download_count": 8,
       "created_at": "2026-09-28T10:29:46Z",
       "updated_at": "2026-09-28T10:29:47Z",
       "browser_download_url": "https://github.com/oxc-project/oxc/releases/download/oxlint_v1.86.0/oxlint-aarch64-apple-darwin.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 5414796,
       "digest": "sha256:18349518174a1f6ef71e11008119f82c18cc5a924154a1f2a03cc99bc742afa8",
-      "download_count": 4,
+      "download_count": 7,
       "created_at": "2026-09-28T10:29:46Z",
       "updated_at": "2026-09-28T10:29:47Z",
       "browser_download_url": "https://github.com/oxc-project/oxc/releases/download/oxlint_v1.86.0/oxlint-aarch64-pc-windows-msvc.zip"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 5899278,
       "digest": "sha256:c31f8b8b7e61924a3ac2a8d1223e34fe249baa4e0e7ba6a4984b96a946371aa2",
-      "download_count": 6,
+      "download_count": 8,
       "created_at": "2026-09-28T10:29:46Z",
       "updated_at": "2026-09-28T10:29:47Z",
       "browser_download_url": "https://github.com/oxc-project/oxc/releases/download/oxlint_v1.86.0/oxlint-aarch64-unknown-linux-gnu.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 5921217,
       "digest": "sha256:3d0eda855955c6bb5cdcc4c04cd6eeded50db64855e7db92d61f4db5039e2219",
-      "download_count": 1,
+      "download_count": 3,
       "created_at": "2026-09-28T10:29:46Z",
       "updated_at": "2026-09-28T10:29:47Z",
       "browser_download_url": "https://github.com/oxc-project/oxc/releases/download/oxlint_v1.86.0/oxlint-aarch64-unknown-linux-musl.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 5514389,
       "digest": "sha256:00f6ffd6bc440f39607ebb18c22e7cc3b2e465d5e033bc112e5ca59a6a23e56d",
-      "download_count": 3,
+      "download_count": 6,
       "created_at": "2026-09-28T10:29:47Z",
       "updated_at": "2026-09-28T10:29:47Z",
       "browser_download_url": "https://github.com/oxc-project/oxc/releases/download/oxlint_v1.86.0/oxlint-i686-pc-windows-msvc.zip"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 6122405,
       "digest": "sha256:7cadde791a93b921429115594e71e47ab444ccdcbcbaae5a9a498cb52955aa3e",
-      "download_count": 1,
+      "download_count": 3,
       "created_at": "2026-09-28T10:29:48Z",
       "updated_at": "2026-09-28T10:29:48Z",
       "browser_download_url": "https://github.com/oxc-project/oxc/releases/download/oxlint_v1.86.0/oxlint-x86_64-apple-darwin.tar.gz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 5775907,
       "digest": "sha256:59c017bf98ff8bb733e7bba416f0b96f124afd74a52d31f86f1b3cd0832ddf75",
-      "download_count": 27,
+      "download_count": 40,
       "created_at": "2026-09-28T10:29:48Z",
       "updated_at": "2026-09-28T10:29:48Z",
       "browser_download_url": "https://github.com/oxc-project/oxc/releases/download/oxlint_v1.86.0/oxlint-x86_64-pc-windows-msvc.zip"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 6382248,
       "digest": "sha256:8ac22aebac95651eb64eff44d4abafeeee5bf606e6c943e3c6648de530c73255",
-      "download_count": 19,
+      "download_count": 40,
       "created_at": "2026-09-28T10:29:48Z",
       "updated_at": "2026-09-28T10:29:49Z",
       "browser_download_url": "https://github.com/oxc-project/oxc/releases/download/oxlint_v1.86.0/oxlint-x86_64-unknown-linux-gnu.tar.gz"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 6449918,
       "digest": "sha256:ed11e14314ba05d7281cda153bca82052bbe3bdf7ed3bd6a3cf85f77d66d8de4",
-      "download_count": 1,
+      "download_count": 5,
       "created_at": "2026-09-28T10:29:48Z",
       "updated_at": "2026-09-28T10:29:49Z",
       "browser_download_url": "https://github.com/oxc-project/oxc/releases/download/oxlint_v1.86.0/oxlint-x86_64-unknown-linux-musl.tar.gz"
@@ -618,14 +618,14 @@
   "body": "### 🚀 Features\n\n- 9d80eed linter/react/only-export-components: Support `allowCompoundComponents` (#27117) (Kuroda Kayn)\n- e05b155 linter: Add typescript/no-generated-empty-object-type (#26958) (camc314)\n\n### 🐛 Bug Fixes\n\n- 8306aa4 linter/typescript/no-unnecessary-parameter-property-assignment: Account for parameter property reassignment (#26955) (camc314)\n- 42dfbb5 linter/eslint/one-var: Keep `declare` when splitting declarations (#27081) (Cheolhee Lee)\n- 2ba7e33 linter/eslint/require-await: Count `await using` as an await (#27080) (Cheolhee Lee)\n- 611e4ed linter/plugins: Include executing selectors in JS plugin rule timings (#27111) (overlookmotel)\n- 2cac66f react-compiler: Handle recursive function expressions (#26796) (Brennan Butler)\n- e996e6c react-compiler: Treat zero-argument new Date as impure (#26894) (Boshen)\n- 571cfa3 oxlint: Skip type-aware lint rules in type-check-only mode (#27076) (camc314)\n- d0b2462 oxlint: Skip undefined children in CFG walker (#27075) (camc314)\n- 5186328 parser: Handle HTML comment values (#22933) (Boshen)\n- 0b630e8 linter/typescript/unified-signatures: Align rule with upstream (#26956) (camc314)\n- ebb22f1 linter/node/no-exports-assign: Change category from style to suspicious (#26555) (Bartok)\n- cce28a0 linter/import/no-duplicates: Distinguish import attributes (#26936) (camc314)\n- feb733b linter/unicorn/prefer-spread: Stop checking string split calls (#26935) (camc314)\n- 929e154 linter/eslint/no-unused-vars: Honor ignore patterns inside array rest bindings (#26923) (camc314)\n- 5bdb9b8 linter/eslint/no-unused-vars: Recognize consumed update expressions (#26782) (camc314)\n- 5c05bef linter/eslint/prefer-const: Ignore embedded assignments (#26920) (camc314)\n\n### ⚡ Performance\n\n- ded4c29 linter/eslint/no-unused-vars: Skip sequence checks when absent (#26921) (camc314)",
   "reactions": {
     "url": "https://api.github.com/repos/oxc-project/oxc/releases/398148253/reactions",
-    "total_count": 8,
-    "+1": 6,
+    "total_count": 10,
+    "+1": 7,
     "-1": 0,
     "laugh": 0,
     "hooray": 0,
     "confused": 0,
     "heart": 2,
-    "rocket": 0,
+    "rocket": 1,
     "eyes": 0
   }
 }
