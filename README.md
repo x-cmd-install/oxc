@@ -38,22 +38,22 @@ Total: **1,148,629** lines of code across **8948** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 22,935 · **Forks**: 1,344 · **Open issues**: 4,825 · **Contributors**: 454
+- **Stars**: 22,936 · **Forks**: 1,342 · **Open issues**: 4,832 · **Contributors**: 454
 
 ## Totals (cumulative)
 
-- **Releases**: 283 · **Merged PRs**: 19214 · **Open PRs**: 350 · **Closed issues**: 4230 · **Open issues**: 595 · **Commits**: 20870
+- **Releases**: 283 · **Merged PRs**: 19214 · **Open PRs**: 356 · **Closed issues**: 4230 · **Open issues**: 602 · **Commits**: 20870
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-03 | 11 | 645 | 133 | 66 | 77 | 603 |
-| last60d | 2026-08-04 | 21 | 1278 | 222 | 190 | 139 | 1267 |
-| 90d | 2026-07-05 | 30 | 2006 | 275 | 323 | 189 | 2049 |
-| last180d | 2026-04-06 | 59 | 4105 | 331 | 751 | 320 | 4512 |
-| 360d | 2025-10-08 | 100 | 8507 | 350 | 1932 | 532 | 9396 |
-| last720d | 2024-10-13 | 100 | 14480 | 350 | 3073 | 584 | 14769 |
+| 30d | 2026-09-04 | 11 | 620 | 138 | 63 | 80 | 420 |
+| last60d | 2026-08-05 | 21 | 1257 | 224 | 188 | 144 | 1100 |
+| 90d | 2026-07-06 | 30 | 1969 | 280 | 322 | 195 | 1866 |
+| last180d | 2026-04-07 | 59 | 4071 | 336 | 742 | 326 | 4288 |
+| 360d | 2025-10-09 | 100 | 8496 | 356 | 1930 | 539 | 9248 |
+| last720d | 2024-10-14 | 100 | 14455 | 356 | 3070 | 591 | 14724 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for oxc lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261003.yml` · 2026-10-03T06:20:04Z._
+_Snapshot: `data/card/261004.yml` · 2026-10-04T07:00:48Z._
