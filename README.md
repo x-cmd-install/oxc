@@ -14,15 +14,15 @@ x install oxc
 
 ## Code insight
 
-Total: **1,149,564** lines of code across **8958** files in the top 5 languages.
+Total: **1,151,715** lines of code across **8963** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 855,126 | 40,970 | 80,993 | 2464 |
-| JavaScript | 165,678 | 22,187 | 15,227 | 3963 |
-| TypeScript | 79,135 | 23,059 | 11,121 | 1866 |
-| Json | 28,857 | 0 | 36 | 626 |
-| Yaml | 10,449 | 116 | 2,240 | 39 |
+| Rust | 854,131 | 40,938 | 80,955 | 2467 |
+| JavaScript | 168,372 | 23,609 | 15,395 | 3963 |
+| TypeScript | 79,250 | 23,090 | 11,131 | 1868 |
+| Json | 28,887 | 0 | 36 | 626 |
+| Yaml | 10,729 | 116 | 2,265 | 39 |
 
 ## Source
 
@@ -32,49 +32,49 @@ Total: **1,149,564** lines of code across **8958** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `oxlint_v1.86.0` (2026-09-28)
-- **Last commit**: 2026-10-05
+- **Latest**: `oxlint_v1.87.0` (2026-10-05)
+- **Last commit**: 2026-10-06
 - **Assets in release**: 16
 
 ## Popularity
 
-- **Stars**: 22,943 · **Forks**: 1,345 · **Open issues**: 4,835 · **Contributors**: 455
+- **Stars**: 22,947 · **Forks**: 1,349 · **Open issues**: 4,840 · **Contributors**: 455
 
 ## Totals (cumulative)
 
-- **Releases**: 283 · **Merged PRs**: 19234 · **Open PRs**: 347 · **Closed issues**: 4237 · **Open issues**: 598 · **Commits**: 20890
+- **Releases**: 286 · **Merged PRs**: 19261 · **Open PRs**: 333 · **Closed issues**: 4239 · **Open issues**: 601 · **Commits**: 20917
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-05 | 11 | 630 | 134 | 67 | 75 | 444 |
-| last60d | 2026-08-06 | 21 | 1256 | 218 | 189 | 141 | 1124 |
-| 90d | 2026-07-07 | 28 | 1964 | 273 | 325 | 190 | 1890 |
-| last180d | 2026-04-08 | 57 | 4072 | 327 | 739 | 321 | 4312 |
-| 360d | 2025-10-10 | 100 | 8498 | 347 | 1931 | 535 | 9272 |
-| last720d | 2024-10-15 | 100 | 14437 | 347 | 3073 | 587 | 14725 |
+| 30d | 2026-09-06 | 14 | 648 | 128 | 69 | 79 | 477 |
+| last60d | 2026-08-07 | 23 | 1258 | 205 | 190 | 144 | 1157 |
+| 90d | 2026-07-08 | 31 | 1973 | 261 | 324 | 191 | 1923 |
+| last180d | 2026-04-09 | 60 | 4029 | 313 | 737 | 318 | 4345 |
+| 360d | 2025-10-11 | 100 | 8509 | 333 | 1926 | 538 | 9305 |
+| last720d | 2024-10-16 | 100 | 14454 | 333 | 3068 | 590 | 14701 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [oxlint-aarch64-apple-darwin.tar.gz](https://github.com/oxc-project/oxc/releases/download/oxlint_v1.86.0/oxlint-aarch64-apple-darwin.tar.gz) | 5.3 MiB | `native/darwin/arm64` |
-| [oxlint-aarch64-pc-windows-msvc.zip](https://github.com/oxc-project/oxc/releases/download/oxlint_v1.86.0/oxlint-aarch64-pc-windows-msvc.zip) | 5.2 MiB | `native/win/arm64` |
-| [oxlint-aarch64-unknown-linux-gnu.tar.gz](https://github.com/oxc-project/oxc/releases/download/oxlint_v1.86.0/oxlint-aarch64-unknown-linux-gnu.tar.gz) | 5.6 MiB | `native/linux/arm64/glibc` |
-| [oxlint-aarch64-unknown-linux-musl.tar.gz](https://github.com/oxc-project/oxc/releases/download/oxlint_v1.86.0/oxlint-aarch64-unknown-linux-musl.tar.gz) | 5.6 MiB | `native/linux/arm64/musl` |
-| [oxlint-armv7-unknown-linux-gnueabihf.tar.gz](https://github.com/oxc-project/oxc/releases/download/oxlint_v1.86.0/oxlint-armv7-unknown-linux-gnueabihf.tar.gz) | 5.4 MiB | `native/linux/arm/glibc` |
-| [oxlint-armv7-unknown-linux-musleabihf.tar.gz](https://github.com/oxc-project/oxc/releases/download/oxlint_v1.86.0/oxlint-armv7-unknown-linux-musleabihf.tar.gz) | 5.5 MiB | `native/linux/arm/musl` |
-| [oxlint-i686-pc-windows-msvc.zip](https://github.com/oxc-project/oxc/releases/download/oxlint_v1.86.0/oxlint-i686-pc-windows-msvc.zip) | 5.3 MiB | `native/win/x64` |
-| [oxlint-powerpc64le-unknown-linux-gnu.tar.gz](https://github.com/oxc-project/oxc/releases/download/oxlint_v1.86.0/oxlint-powerpc64le-unknown-linux-gnu.tar.gz) | 6.6 MiB | `native/unknown` |
-| [oxlint-riscv64gc-unknown-linux-gnu.tar.gz](https://github.com/oxc-project/oxc/releases/download/oxlint_v1.86.0/oxlint-riscv64gc-unknown-linux-gnu.tar.gz) | 6.1 MiB | `native/linux/riscv64/glibc` |
-| [oxlint-riscv64gc-unknown-linux-musl.tar.gz](https://github.com/oxc-project/oxc/releases/download/oxlint_v1.86.0/oxlint-riscv64gc-unknown-linux-musl.tar.gz) | 6.2 MiB | `native/linux/riscv64/musl` |
-| [oxlint-s390x-unknown-linux-gnu.tar.gz](https://github.com/oxc-project/oxc/releases/download/oxlint_v1.86.0/oxlint-s390x-unknown-linux-gnu.tar.gz) | 6.6 MiB | `native/unknown` |
-| [oxlint-x86_64-apple-darwin.tar.gz](https://github.com/oxc-project/oxc/releases/download/oxlint_v1.86.0/oxlint-x86_64-apple-darwin.tar.gz) | 5.8 MiB | `native/darwin/x64` |
-| [oxlint-x86_64-pc-windows-msvc.zip](https://github.com/oxc-project/oxc/releases/download/oxlint_v1.86.0/oxlint-x86_64-pc-windows-msvc.zip) | 5.5 MiB | `native/win/x64` |
-| [oxlint-x86_64-unknown-freebsd.tar.gz](https://github.com/oxc-project/oxc/releases/download/oxlint_v1.86.0/oxlint-x86_64-unknown-freebsd.tar.gz) | 6.0 MiB | `native/linux/x64` |
-| [oxlint-x86_64-unknown-linux-gnu.tar.gz](https://github.com/oxc-project/oxc/releases/download/oxlint_v1.86.0/oxlint-x86_64-unknown-linux-gnu.tar.gz) | 6.1 MiB | `native/linux/x64/glibc` |
-| [oxlint-x86_64-unknown-linux-musl.tar.gz](https://github.com/oxc-project/oxc/releases/download/oxlint_v1.86.0/oxlint-x86_64-unknown-linux-musl.tar.gz) | 6.2 MiB | `native/linux/x64/musl` |
+| [oxlint-aarch64-apple-darwin.tar.gz](https://github.com/oxc-project/oxc/releases/download/oxlint_v1.87.0/oxlint-aarch64-apple-darwin.tar.gz) | 5.2 MiB | `native/darwin/arm64` |
+| [oxlint-aarch64-pc-windows-msvc.zip](https://github.com/oxc-project/oxc/releases/download/oxlint_v1.87.0/oxlint-aarch64-pc-windows-msvc.zip) | 5.1 MiB | `native/win/arm64` |
+| [oxlint-aarch64-unknown-linux-gnu.tar.gz](https://github.com/oxc-project/oxc/releases/download/oxlint_v1.87.0/oxlint-aarch64-unknown-linux-gnu.tar.gz) | 5.6 MiB | `native/linux/arm64/glibc` |
+| [oxlint-aarch64-unknown-linux-musl.tar.gz](https://github.com/oxc-project/oxc/releases/download/oxlint_v1.87.0/oxlint-aarch64-unknown-linux-musl.tar.gz) | 5.6 MiB | `native/linux/arm64/musl` |
+| [oxlint-armv7-unknown-linux-gnueabihf.tar.gz](https://github.com/oxc-project/oxc/releases/download/oxlint_v1.87.0/oxlint-armv7-unknown-linux-gnueabihf.tar.gz) | 5.5 MiB | `native/linux/arm/glibc` |
+| [oxlint-armv7-unknown-linux-musleabihf.tar.gz](https://github.com/oxc-project/oxc/releases/download/oxlint_v1.87.0/oxlint-armv7-unknown-linux-musleabihf.tar.gz) | 5.5 MiB | `native/linux/arm/musl` |
+| [oxlint-i686-pc-windows-msvc.zip](https://github.com/oxc-project/oxc/releases/download/oxlint_v1.87.0/oxlint-i686-pc-windows-msvc.zip) | 5.2 MiB | `native/win/x64` |
+| [oxlint-powerpc64le-unknown-linux-gnu.tar.gz](https://github.com/oxc-project/oxc/releases/download/oxlint_v1.87.0/oxlint-powerpc64le-unknown-linux-gnu.tar.gz) | 6.5 MiB | `native/unknown` |
+| [oxlint-riscv64gc-unknown-linux-gnu.tar.gz](https://github.com/oxc-project/oxc/releases/download/oxlint_v1.87.0/oxlint-riscv64gc-unknown-linux-gnu.tar.gz) | 6.0 MiB | `native/linux/riscv64/glibc` |
+| [oxlint-riscv64gc-unknown-linux-musl.tar.gz](https://github.com/oxc-project/oxc/releases/download/oxlint_v1.87.0/oxlint-riscv64gc-unknown-linux-musl.tar.gz) | 6.1 MiB | `native/linux/riscv64/musl` |
+| [oxlint-s390x-unknown-linux-gnu.tar.gz](https://github.com/oxc-project/oxc/releases/download/oxlint_v1.87.0/oxlint-s390x-unknown-linux-gnu.tar.gz) | 6.7 MiB | `native/unknown` |
+| [oxlint-x86_64-apple-darwin.tar.gz](https://github.com/oxc-project/oxc/releases/download/oxlint_v1.87.0/oxlint-x86_64-apple-darwin.tar.gz) | 5.8 MiB | `native/darwin/x64` |
+| [oxlint-x86_64-pc-windows-msvc.zip](https://github.com/oxc-project/oxc/releases/download/oxlint_v1.87.0/oxlint-x86_64-pc-windows-msvc.zip) | 5.5 MiB | `native/win/x64` |
+| [oxlint-x86_64-unknown-freebsd.tar.gz](https://github.com/oxc-project/oxc/releases/download/oxlint_v1.87.0/oxlint-x86_64-unknown-freebsd.tar.gz) | 6.0 MiB | `native/linux/x64` |
+| [oxlint-x86_64-unknown-linux-gnu.tar.gz](https://github.com/oxc-project/oxc/releases/download/oxlint_v1.87.0/oxlint-x86_64-unknown-linux-gnu.tar.gz) | 6.1 MiB | `native/linux/x64/glibc` |
+| [oxlint-x86_64-unknown-linux-musl.tar.gz](https://github.com/oxc-project/oxc/releases/download/oxlint_v1.87.0/oxlint-x86_64-unknown-linux-musl.tar.gz) | 6.1 MiB | `native/linux/x64/musl` |
 
 ## Improve this data
 
@@ -85,4 +85,4 @@ Install metadata for oxc lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261005.yml` · 2026-10-05T06:47:15Z._
+_Snapshot: `data/card/261006.yml` · 2026-10-06T07:34:27Z._
