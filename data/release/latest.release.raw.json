@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 5470383,
       "digest": "sha256:51e06321b34fde0dd19f7d7c1bc3d44c423aec4f5c86048c9bdc068f9b3e7df8",
-      "download_count": 12,
+      "download_count": 16,
       "created_at": "2026-10-05T11:04:21Z",
       "updated_at": "2026-10-05T11:04:22Z",
       "browser_download_url": "https://github.com/oxc-project/oxc/releases/download/oxlint_v1.87.0/oxlint-aarch64-apple-darwin.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 5350373,
       "digest": "sha256:e97a2eece076bd893923d8a9fc4faf4fc413703331e5b44df61f54b61ecbfeed",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-10-05T11:04:21Z",
       "updated_at": "2026-10-05T11:04:22Z",
       "browser_download_url": "https://github.com/oxc-project/oxc/releases/download/oxlint_v1.87.0/oxlint-aarch64-pc-windows-msvc.zip"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 5831690,
       "digest": "sha256:2226c5ac023135808a391a5f746666ca0fa398f05252b9007c329e4b62ae03c0",
-      "download_count": 9,
+      "download_count": 12,
       "created_at": "2026-10-05T11:04:22Z",
       "updated_at": "2026-10-05T11:04:22Z",
       "browser_download_url": "https://github.com/oxc-project/oxc/releases/download/oxlint_v1.87.0/oxlint-aarch64-unknown-linux-gnu.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 5850042,
       "digest": "sha256:2453a048f91cb90c2abbd23a9120ffb96970878d3c1e40be56ae0aed462d9d36",
-      "download_count": 5,
+      "download_count": 7,
       "created_at": "2026-10-05T11:04:21Z",
       "updated_at": "2026-10-05T11:04:22Z",
       "browser_download_url": "https://github.com/oxc-project/oxc/releases/download/oxlint_v1.87.0/oxlint-aarch64-unknown-linux-musl.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 5722155,
       "digest": "sha256:28fe5b569f10a99c81d931c819c0ba2676e7bf509246865e6139007ace1ea475",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-10-05T11:04:21Z",
       "updated_at": "2026-10-05T11:04:22Z",
       "browser_download_url": "https://github.com/oxc-project/oxc/releases/download/oxlint_v1.87.0/oxlint-armv7-unknown-linux-gnueabihf.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 5742103,
       "digest": "sha256:bf9360a86c5449707eebbc39d0055107ffd4cc17226600ecc42aaafe1d16bb69",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-10-05T11:04:22Z",
       "updated_at": "2026-10-05T11:04:23Z",
       "browser_download_url": "https://github.com/oxc-project/oxc/releases/download/oxlint_v1.87.0/oxlint-armv7-unknown-linux-musleabihf.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 5502293,
       "digest": "sha256:fc919b1bda456ca4069b470e16fa8742b4393d1d3e7a14534d061ec3779581ee",
-      "download_count": 8,
+      "download_count": 9,
       "created_at": "2026-10-05T11:04:22Z",
       "updated_at": "2026-10-05T11:04:23Z",
       "browser_download_url": "https://github.com/oxc-project/oxc/releases/download/oxlint_v1.87.0/oxlint-i686-pc-windows-msvc.zip"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 6839896,
       "digest": "sha256:9db9afbb1b1bc2a0ab9a4940f3c50ed32ae9219c3d7e8445906bf65accbf534e",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-10-05T11:04:23Z",
       "updated_at": "2026-10-05T11:04:23Z",
       "browser_download_url": "https://github.com/oxc-project/oxc/releases/download/oxlint_v1.87.0/oxlint-powerpc64le-unknown-linux-gnu.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 6328472,
       "digest": "sha256:ee85b453c3a37065279bcbccb22aac651aa5484fe7573d943fc3264a74e123f2",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-10-05T11:04:23Z",
       "updated_at": "2026-10-05T11:04:23Z",
       "browser_download_url": "https://github.com/oxc-project/oxc/releases/download/oxlint_v1.87.0/oxlint-riscv64gc-unknown-linux-gnu.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 6447081,
       "digest": "sha256:2cde229255fa04adb4cc9ac7d8d5344b9f37d370d5c25a218e0af6c07936f393",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-10-05T11:04:23Z",
       "updated_at": "2026-10-05T11:04:23Z",
       "browser_download_url": "https://github.com/oxc-project/oxc/releases/download/oxlint_v1.87.0/oxlint-riscv64gc-unknown-linux-musl.tar.gz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 7029156,
       "digest": "sha256:6008cef7ec071984bc1104dc5358ee9d54036b8f661d0e8365aaa4b651f793bb",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-10-05T11:04:23Z",
       "updated_at": "2026-10-05T11:04:24Z",
       "browser_download_url": "https://github.com/oxc-project/oxc/releases/download/oxlint_v1.87.0/oxlint-s390x-unknown-linux-gnu.tar.gz"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 6090565,
       "digest": "sha256:acb134e9c0f77d1fa2d17010db40c72fd1cbe7bdea228a509d3e96973f70e5d2",
-      "download_count": 5,
+      "download_count": 8,
       "created_at": "2026-10-05T11:04:23Z",
       "updated_at": "2026-10-05T11:04:24Z",
       "browser_download_url": "https://github.com/oxc-project/oxc/releases/download/oxlint_v1.87.0/oxlint-x86_64-apple-darwin.tar.gz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 5755525,
       "digest": "sha256:ba1661fd40bdb6fdc69fa6d8421d37d8965505015a76a5d8a2e617e6b23c7950",
-      "download_count": 53,
+      "download_count": 67,
       "created_at": "2026-10-05T11:04:23Z",
       "updated_at": "2026-10-05T11:04:24Z",
       "browser_download_url": "https://github.com/oxc-project/oxc/releases/download/oxlint_v1.87.0/oxlint-x86_64-pc-windows-msvc.zip"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 6265805,
       "digest": "sha256:7fa8905ba9847ec9f85c6c9e4adcf597d4756bd0bcedb714813b81d68aac9f47",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-10-05T11:04:24Z",
       "updated_at": "2026-10-05T11:04:24Z",
       "browser_download_url": "https://github.com/oxc-project/oxc/releases/download/oxlint_v1.87.0/oxlint-x86_64-unknown-freebsd.tar.gz"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 6367496,
       "digest": "sha256:97a075ac82cd6131641101016f79142ac6765ba79a5a582864450e30d192a425",
-      "download_count": 67,
+      "download_count": 107,
       "created_at": "2026-10-05T11:04:24Z",
       "updated_at": "2026-10-05T11:04:24Z",
       "browser_download_url": "https://github.com/oxc-project/oxc/releases/download/oxlint_v1.87.0/oxlint-x86_64-unknown-linux-gnu.tar.gz"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 6433403,
       "digest": "sha256:108351c4b4648eff6f581a0c2d43fa9a9a5bd45fe18779ce387855cf360eea5c",
-      "download_count": 11,
+      "download_count": 14,
       "created_at": "2026-10-05T11:04:24Z",
       "updated_at": "2026-10-05T11:04:25Z",
       "browser_download_url": "https://github.com/oxc-project/oxc/releases/download/oxlint_v1.87.0/oxlint-x86_64-unknown-linux-musl.tar.gz"
@@ -618,13 +618,13 @@
   "body": "### 🚀 Features\n\n- 42dcfd2 linter/react/no-unescaped-entities: Implement suggestion (#27292) (Mikhail Baev)\n- cd4510d linter/unicorn/no-useless-switch-case: Implement suggestion (#27245) (Mikhail Baev)\n- 1a7c902 linter/react/jsx-no-target-blank: Implement suggestion (#27181) (Mikhail Baev)\n\n### 🐛 Bug Fixes\n\n- 176b4b9 linter/jsx-a11y/label-has-associated-control: Validate label attribute values (#27302) (sama Pyb)\n- 7d381c3 linter/jsx-a11y/mouse-events-have-key-events: Handle nullish event handlers (#27306) (sama Pyb)\n- 4e09837 linter/jsx-a11y/lang: Validate lang expression strings (#27304) (sama Pyb)\n- 7d28a66 linter/unicorn/numeric-separators-style: Report misgrouped BigInt literals (#27207) (breken)\n- e928322 linter/unicorn/no-zero-fractions: Parenthesize separator and large integers in fixer (#27206) (breken)\n- 3d61a59 parser: Validate TypeScript type member separators (#27222) (camc314)\n- f08236b linter/eslint/prefer-exponentiation-operator: Preserve autofix precedence (#27150) (camc314)\n- 7d60ae3 linter/valid-title: Continue checks after allowed words (#27146) (Cameron)\n- ad5dd5d linter/eslint/no-unused-vars: Respect disabled argument checks for used ignore patterns (#26925) (camc314)",
   "reactions": {
     "url": "https://api.github.com/repos/oxc-project/oxc/releases/403623472/reactions",
-    "total_count": 9,
-    "+1": 7,
+    "total_count": 11,
+    "+1": 8,
     "-1": 0,
     "laugh": 0,
     "hooray": 0,
     "confused": 0,
-    "heart": 2,
+    "heart": 3,
     "rocket": 0,
     "eyes": 0
   }
