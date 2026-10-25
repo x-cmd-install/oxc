@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 5519303,
       "digest": "sha256:fa4349f33b24221e2d303ace66de3dac2ff756eab48126b2cb58429ed36bccbc",
-      "download_count": 149,
+      "download_count": 179,
       "created_at": "2026-10-19T17:24:21Z",
       "updated_at": "2026-10-19T17:24:22Z",
       "browser_download_url": "https://github.com/oxc-project/oxc/releases/download/oxlint_v1.89.0/oxlint-aarch64-apple-darwin.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 5402084,
       "digest": "sha256:95def6682fbf3f0c890848f170c2f1c5824970a0656c82545519f5ee4b0ff8ac",
-      "download_count": 20,
+      "download_count": 21,
       "created_at": "2026-10-19T17:24:21Z",
       "updated_at": "2026-10-19T17:24:23Z",
       "browser_download_url": "https://github.com/oxc-project/oxc/releases/download/oxlint_v1.89.0/oxlint-aarch64-pc-windows-msvc.zip"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 5885135,
       "digest": "sha256:69b3680c38b21395d4ea509fbd1019fa011db0cd717dd7be2ede2575cb6f7915",
-      "download_count": 28,
+      "download_count": 48,
       "created_at": "2026-10-19T17:24:21Z",
       "updated_at": "2026-10-19T17:24:22Z",
       "browser_download_url": "https://github.com/oxc-project/oxc/releases/download/oxlint_v1.89.0/oxlint-aarch64-unknown-linux-gnu.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 5902129,
       "digest": "sha256:2fda2c5365b3e98113e5e449fdd4e1807746c54b58ca62607296c58f482ed105",
-      "download_count": 16,
+      "download_count": 17,
       "created_at": "2026-10-19T17:24:21Z",
       "updated_at": "2026-10-19T17:24:22Z",
       "browser_download_url": "https://github.com/oxc-project/oxc/releases/download/oxlint_v1.89.0/oxlint-aarch64-unknown-linux-musl.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 5545799,
       "digest": "sha256:00df8d7842c98f7292282cd99854c843706cf99fdf04b05c83b90b25abdde862",
-      "download_count": 18,
+      "download_count": 19,
       "created_at": "2026-10-19T17:24:22Z",
       "updated_at": "2026-10-19T17:24:23Z",
       "browser_download_url": "https://github.com/oxc-project/oxc/releases/download/oxlint_v1.89.0/oxlint-i686-pc-windows-msvc.zip"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 6138992,
       "digest": "sha256:198261cfb91c0f0387c55642ba5c2c4aa2c3cf9593188f86187c759f280bae88",
-      "download_count": 18,
+      "download_count": 20,
       "created_at": "2026-10-19T17:24:23Z",
       "updated_at": "2026-10-19T17:24:24Z",
       "browser_download_url": "https://github.com/oxc-project/oxc/releases/download/oxlint_v1.89.0/oxlint-x86_64-apple-darwin.tar.gz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 5805763,
       "digest": "sha256:50be9b3d180a48f2a33fb9ab6d92383c6464d38e4df347b08b1bce6b999c8c15",
-      "download_count": 123,
+      "download_count": 132,
       "created_at": "2026-10-19T17:24:24Z",
       "updated_at": "2026-10-19T17:24:24Z",
       "browser_download_url": "https://github.com/oxc-project/oxc/releases/download/oxlint_v1.89.0/oxlint-x86_64-pc-windows-msvc.zip"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 6415959,
       "digest": "sha256:88492c336807a34062fa540416fe75037c04bcce1ed77824e3db3aaec215949a",
-      "download_count": 553,
+      "download_count": 687,
       "created_at": "2026-10-19T17:24:24Z",
       "updated_at": "2026-10-19T17:24:25Z",
       "browser_download_url": "https://github.com/oxc-project/oxc/releases/download/oxlint_v1.89.0/oxlint-x86_64-unknown-linux-gnu.tar.gz"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 6481811,
       "digest": "sha256:eaccbadd29973d37cedc95ec1f6e889fdae13c694e1cef4b6cbfcfe1c650e7b8",
-      "download_count": 28,
+      "download_count": 32,
       "created_at": "2026-10-19T17:24:24Z",
       "updated_at": "2026-10-19T17:24:25Z",
       "browser_download_url": "https://github.com/oxc-project/oxc/releases/download/oxlint_v1.89.0/oxlint-x86_64-unknown-linux-musl.tar.gz"
@@ -618,14 +618,14 @@
   "body": "### 💥 BREAKING CHANGES\n\n- e3c1b11 ast: [**BREAKING**] Preserve lone surrogates in static property names (#27095) (Dunqing)\n- a0a987c ast: [**BREAKING**] Preserve lone surrogates in static member names (#26677) (Dunqing)\n\n### 🚀 Features\n\n- 770ada4 linter: Mark vue 3 rules as recommended (#27717) (Cam McHenry)\n- ba38c1d linter: Mark react/react-hooks rules as recommended (#27701) (Cam McHenry)\n- d85a3ba linter: Mark promise rules as recommended (#27693) (Cam McHenry)\n- e71c88a linter: Mark node rule as recommended (#27692) (Cam McHenry)\n- 7213f61 linter: Mark nextjs rules as recommended (#27691) (Cam McHenry)\n- d7c6b26 linter: Mark jsx-a11y rules as recommended (#27690) (Cam McHenry)\n- 199dfdc linter: Mark jsdoc rules as recommended (#27689) (Cam McHenry)\n- 780bff3 linter: Mark jest/vitest rules as recommended (#27672) (Cam McHenry)\n- 6ae6859 linter: Mark import rules as recommended (#27671) (Cam McHenry)\n- b7a1df3 linter: Mark unicorn rules as recommended (#27670) (Cam McHenry)\n- c44a355 linter: Mark typescript rules as recommended from upstream (#27634) (Cam McHenry)\n- 6b49dba linter: Mark eslint rules as recommended from upstream (#27632) (Cam McHenry)\n\n### 🐛 Bug Fixes\n\n- 7c47246 linter: Check module specifiers and string values that contain lone surrogates (#26717) (Dunqing)\n- 782ab6e linter: Search string values without UTF-8 conversion (#26716) (Dunqing)\n- 326904f linter/unicorn/no-useless-undefined: Allow `undefined` in `React.useRef` (#25027) (Chris Dokurno)\n- f9cf165 linter/unicorn/prefer-spread: Ignore super method calls (#27868) (camc314)\n- 00484e1 linter/eslint/prefer-const: Report destructuring assignments inside blocks (#27856) (camc314)\n- 9c35461 linter/eslint/sort-vars: Report every out-of-order declaration (#27767) (camc314)\n- 01e1c5e linter/unicorn/prefer-string-replace-all: Resolve regex variables (#27769) (camc314)\n- 7f474d5 linter/eslint/no-loop-func: Detect writes after the loop (#27754) (camc314)\n- 4b7fea6 linter/eslint/block-scoped-var: Ignore declarations without writes (#27760) (camc314)\n- 2947917 linter/eslint/no-lonely-if: Check final else blocks in else-if chains (#27759) (camc314)\n- fc039b5 linter/eslint/sort-imports: Check imports after other statements (#27749) (camc314)\n- 1acba97 linter/unicorn/prefer-at: Report slice index reads once (#27762) (camc314)\n- 6190e26 linter/eslint/prefer-arrow-callback: Ignore functions used as conditional tests (#27533) (Anzal Husain Abidi)\n- b3cdaaf linter/eslint/sort-keys: Check computed identifier names (#27748) (camc314)\n- 170e608 linter/unicorn/prefer-native-coercion-functions: Check object methods and function properties (#27750) (camc314)\n- 9261df7 linter/unicorn/prefer-string-raw: Check object property values (#27758) (camc314)\n- ddea86b linter/eslint/prefer-template: Report separate nested concatenations (#27764) (camc314)\n- 2c67197 linter/eslint/no-unused-vars: Count conditional calls in sequences as uses (#27755) (camc314)\n- 7f22fa0 linter/unicorn/prefer-regexp-test: Check logical operands in boolean contexts (#27761) (camc314)\n- 3c44398 linter/eslint/class-methods-use-this: Count this in parameter defaults (#27756) (camc314)\n- d85923f linter/eslint/no-param-reassign: Report rest parameter writes (#27765) (camc314)\n- 8ea47bb linter/unicorn/prefer-type-error: Handle parenthesized type checks (#27766) (camc314)\n- e96856c linter/unicorn/catch-error-name: Check unused underscore-prefixed names (#27751) (camc314)\n- d8ca399 linter/unicorn/no-array-callback-reference: Ignore callback factory calls (#27763) (camc314)\n- 1267ab8 linter/eslint/max-params: Count rest parameters (#27757) (camc314)\n- 9ff25c3 linter/eslint/no-useless-assignment: Report dead stores to function parameters (#27735) (camc314)\n- ee5e730 linter/eslint/no-setter-return: Check setters in property descriptors (#27731) (camc314)\n- edbb5ed linter/eslint/id-length: Check destructuring assignment targets (#27724) (Yunus Ozen)\n- 0e40acb linter/eslint/no-magic-numbers: Restrict unary exemptions to numeric signs (#27723) (Yunus Ozen)\n- ae7e44b linter/eslint/no-div-regex: Report quantified leading equals (#27722) (Yunus Ozen)\n- eb461f8 linter/unicorn/consistent-function-scoping: Count self-referencing variables as captures (#27726) (camc314)\n- 5c8e731 linter/unicorn/catch-error-name: Avoid fix symbol name collisions (#27702) (camc314)\n- 9a424c2 oxlint,oxfmt: Correct Node.js TypeScript support range (#27699) (camc314)\n- 5dc0152 linter/eslint/no-var: Avoid fixes for redeclared bindings (#27697) (camc314)\n\n### ⚡ Performance\n\n- 4944cba linter/react/jsx-key: Avoid redundant key clones (#27915) (camc314)\n\n### 📚 Documentation\n\n- 0aa41ac linter: Fix invalid code example in rule docs (#27645) (leaysgur)",
   "reactions": {
     "url": "https://api.github.com/repos/oxc-project/oxc/releases/417554182/reactions",
-    "total_count": 7,
+    "total_count": 8,
     "+1": 0,
     "-1": 0,
     "laugh": 0,
     "hooray": 0,
     "confused": 0,
     "heart": 6,
-    "rocket": 1,
+    "rocket": 2,
     "eyes": 0
   }
 }
