@@ -3,7 +3,7 @@
   binname: oxlint
   visiblename: oxlint
   version: 1.89.0
-  origversion: 1.89.0-1
+  origversion: 1.89.0-2
   status: unique
   summary: Oxc JavaScript linter
   maintainers:
@@ -15,7 +15,7 @@
   binname: oxfmt
   visiblename: oxfmt
   version: 1.89.0
-  origversion: 1.89.0-1
+  origversion: 1.89.0-2
   status: unique
   summary: Formatter for the JavaScript Oxidation Compiler
   maintainers:
