@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 5533497,
       "digest": "sha256:4654e2b8b450f25d3b3186b8e88ffbaf5c20b991a61243758a0944bc46726791",
-      "download_count": 1,
+      "download_count": 26,
       "created_at": "2026-10-27T05:51:25Z",
       "updated_at": "2026-10-27T05:51:26Z",
       "browser_download_url": "https://github.com/oxc-project/oxc/releases/download/oxlint_v1.90.0/oxlint-aarch64-apple-darwin.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 5413745,
       "digest": "sha256:e10d6cbb8d034e0c7dbe1a90c191d2079e654af250493eac2867299773b71c38",
-      "download_count": 1,
+      "download_count": 5,
       "created_at": "2026-10-27T05:51:25Z",
       "updated_at": "2026-10-27T05:51:26Z",
       "browser_download_url": "https://github.com/oxc-project/oxc/releases/download/oxlint_v1.90.0/oxlint-aarch64-pc-windows-msvc.zip"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 5894320,
       "digest": "sha256:dda6ccf8e94d4cddb82672c9d230ab04cc52e13a31075e88e53bb97b31311468",
-      "download_count": 3,
+      "download_count": 10,
       "created_at": "2026-10-27T05:51:25Z",
       "updated_at": "2026-10-27T05:51:26Z",
       "browser_download_url": "https://github.com/oxc-project/oxc/releases/download/oxlint_v1.90.0/oxlint-aarch64-unknown-linux-gnu.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 5912308,
       "digest": "sha256:b4af9b73c0cc87b2679dadcfa29abc7aeb4e8f45fca1469442e4d38bb5db1b49",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-10-27T05:51:25Z",
       "updated_at": "2026-10-27T05:51:26Z",
       "browser_download_url": "https://github.com/oxc-project/oxc/releases/download/oxlint_v1.90.0/oxlint-aarch64-unknown-linux-musl.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 5558672,
       "digest": "sha256:7c18ff648a3c4b88f218102d01179795190ec27703a388b839238a679c7564b6",
-      "download_count": 1,
+      "download_count": 4,
       "created_at": "2026-10-27T05:51:26Z",
       "updated_at": "2026-10-27T05:51:27Z",
       "browser_download_url": "https://github.com/oxc-project/oxc/releases/download/oxlint_v1.90.0/oxlint-i686-pc-windows-msvc.zip"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 6148721,
       "digest": "sha256:c5a633a676cc1efd5ae60b5afc0e36c77fa86a52f0409050b5ec2920f5c1646e",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-10-27T05:51:27Z",
       "updated_at": "2026-10-27T05:51:27Z",
       "browser_download_url": "https://github.com/oxc-project/oxc/releases/download/oxlint_v1.90.0/oxlint-x86_64-apple-darwin.tar.gz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 5814813,
       "digest": "sha256:678145d7dd816cc77500878477938d4a73756d75edd6ebed821de51885c39bb2",
-      "download_count": 2,
+      "download_count": 43,
       "created_at": "2026-10-27T05:51:27Z",
       "updated_at": "2026-10-27T05:51:27Z",
       "browser_download_url": "https://github.com/oxc-project/oxc/releases/download/oxlint_v1.90.0/oxlint-x86_64-pc-windows-msvc.zip"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 6427998,
       "digest": "sha256:dd5b0c99ca7917fd6d3caabae260acc5bf7d65ae094541971862602fe288dca4",
-      "download_count": 4,
+      "download_count": 135,
       "created_at": "2026-10-27T05:51:27Z",
       "updated_at": "2026-10-27T05:51:28Z",
       "browser_download_url": "https://github.com/oxc-project/oxc/releases/download/oxlint_v1.90.0/oxlint-x86_64-unknown-linux-gnu.tar.gz"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 6491379,
       "digest": "sha256:70c5c44f0738b5d6a8716058e82aceff40524b476a6f533f9a94887352cb8f30",
-      "download_count": 1,
+      "download_count": 6,
       "created_at": "2026-10-27T05:51:28Z",
       "updated_at": "2026-10-27T05:51:28Z",
       "browser_download_url": "https://github.com/oxc-project/oxc/releases/download/oxlint_v1.90.0/oxlint-x86_64-unknown-linux-musl.tar.gz"
@@ -615,5 +615,17 @@
   ],
   "tarball_url": "https://api.github.com/repos/oxc-project/oxc/tarball/oxlint_v1.90.0",
   "zipball_url": "https://api.github.com/repos/oxc-project/oxc/zipball/oxlint_v1.90.0",
-  "body": "### 🚀 Features\n\n- cf34678 oxlint: Export `Oxlintrc` type (#28132) (Sysix)\n- 831cdf1 oxlint: Require mininum oxlint-tsgolint version v7.0.2005 (#28118) (camc314)\n- d1b00f4 linter/typescript: Implement no-unsafe-enum-assignment rule (#28117) (camc314)\n- 165c91f linter/typescript/await-thenable: Support `allowMixedPromiseArrays` option (#28116) (camc314)\n\n### 🐛 Bug Fixes\n\n- 7f3c908 linter/eslint/array-callback-return: Check callbacks passed with extra arguments (#28133) (sarankumar)\n- 53be530 linter: Filter by type aware rules when looking up tsgolint rule severity (#28138) (NavpreetSSidhu)\n- e0f8937 react-compiler: Compile a `try` whose `catch` is unreachable instead of panicking (#28066) (Dunqing)\n- f5b625f linter/eslint/no-useless-concat: See through parenthesized expressions (#27984) (Rahul Kashyap)\n- 4629bb2 linter/jest/no-conditional-expect: Check function expression callbacks (#28055) (camc314)\n- 5c84098 semantic,linter: Report names with lone surrogates in enum and lint checks (#27991) (Dunqing)\n- f3705a9 linter/eslint/prefer-const: Skip fixers if any declarator is reassigned (#28008) (Prince Jain)\n- 4c0fa90 minifier,linter: Keep `delete` of constant members and later JSX keys (#27990) (Dunqing)\n- 0298062 linter/arrow-body-style: Keep type assertions when adding a block body (#27978) (Yan Almeida)"
+  "body": "### 🚀 Features\n\n- cf34678 oxlint: Export `Oxlintrc` type (#28132) (Sysix)\n- 831cdf1 oxlint: Require mininum oxlint-tsgolint version v7.0.2005 (#28118) (camc314)\n- d1b00f4 linter/typescript: Implement no-unsafe-enum-assignment rule (#28117) (camc314)\n- 165c91f linter/typescript/await-thenable: Support `allowMixedPromiseArrays` option (#28116) (camc314)\n\n### 🐛 Bug Fixes\n\n- 7f3c908 linter/eslint/array-callback-return: Check callbacks passed with extra arguments (#28133) (sarankumar)\n- 53be530 linter: Filter by type aware rules when looking up tsgolint rule severity (#28138) (NavpreetSSidhu)\n- e0f8937 react-compiler: Compile a `try` whose `catch` is unreachable instead of panicking (#28066) (Dunqing)\n- f5b625f linter/eslint/no-useless-concat: See through parenthesized expressions (#27984) (Rahul Kashyap)\n- 4629bb2 linter/jest/no-conditional-expect: Check function expression callbacks (#28055) (camc314)\n- 5c84098 semantic,linter: Report names with lone surrogates in enum and lint checks (#27991) (Dunqing)\n- f3705a9 linter/eslint/prefer-const: Skip fixers if any declarator is reassigned (#28008) (Prince Jain)\n- 4c0fa90 minifier,linter: Keep `delete` of constant members and later JSX keys (#27990) (Dunqing)\n- 0298062 linter/arrow-body-style: Keep type assertions when adding a block body (#27978) (Yan Almeida)",
+  "reactions": {
+    "url": "https://api.github.com/repos/oxc-project/oxc/releases/425078593/reactions",
+    "total_count": 8,
+    "+1": 0,
+    "-1": 0,
+    "laugh": 0,
+    "hooray": 2,
+    "confused": 0,
+    "heart": 6,
+    "rocket": 0,
+    "eyes": 0
+  }
 }
