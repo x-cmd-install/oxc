@@ -1,0 +1,224 @@
+about:
+  description: "⚓ A collection of high-performance JavaScript tools."
+  license: MIT
+  homepage: https://oxc.rs
+  head: 97b017d
+  archived: false
+  latestVersion: "oxlint_v1.90.0"
+  latestRelease: "oxlint_v1.90.0"
+  latestPrerelease: ""
+  collectedAt: 2026-10-30T06:52:45Z
+timeline:
+  created: 2023-02-09
+  lastCommit: 2026-10-30
+  lastVersion: 2026-10-27
+  lastRelease: 2026-10-27
+  lastPrerelease: 
+popularity:
+  star: 23273
+  watcher: 88
+  fork: 1420
+  release: 295
+  contributor: 475
+  pullRequest: 23008
+  issue: 5010
+language:
+  Rust: 38377693
+  JavaScript: 5863977
+  TypeScript: 3335972
+  Just: 17009
+  Shell: 9877
+  Vue: 6315
+  Svelte: 2917
+  Astro: 1416
+  HTML: 259
+  Dockerfile: 232
+  MDX: 164
+  Go: 115
+  Ruby: 98
+  CoffeeScript: 45
+  CSS: 40
+totalBytes: 47616129
+recent:
+  last30d:
+    since: 2026-09-30
+    release: 12
+    mergedPR: 750
+    openPR: 225
+    closedIssue: 87
+    openIssue: 113
+    commit: 913
+  last60d:
+    since: 2026-08-31
+    release: 25
+    mergedPR: 1438
+    openPR: 307
+    closedIssue: 173
+    openIssue: 169
+    commit: 1541
+  last90d:
+    since: 2026-08-01
+    release: 34
+    mergedPR: 2087
+    openPR: 372
+    closedIssue: 312
+    openIssue: 223
+    commit: 2207
+  last180d:
+    since: 2026-05-03
+    release: 62
+    mergedPR: 4159
+    openPR: 443
+    closedIssue: 701
+    openIssue: 349
+    commit: 4601
+  last360d:
+    since: 2025-11-04
+    release: 100
+    mergedPR: 8643
+    openPR: 469
+    closedIssue: 1933
+    openIssue: 590
+    commit: 9558
+  last720d:
+    since: 2024-11-09
+    release: 100
+    mergedPR: 14682
+    openPR: 469
+    closedIssue: 3092
+    openIssue: 651
+    commit: 14946
+total:
+  release: 295
+  mergedPR: 19952
+  openPR: 469
+  closedIssue: 4348
+  openIssue: 662
+  commit: 21640
+---
+path: /home/runner/.x-repo/github.com/oxc-project/oxc
+collectedAt: 2026-10-30T06:53:21Z
+loc:
+  Rust:
+    code: 867724
+    comments: 41698
+    blanks: 81790
+    files: 2483
+  JavaScript:
+    code: 174424
+    comments: 23818
+    blanks: 15597
+    files: 4361
+  TypeScript:
+    code: 80762
+    comments: 23940
+    blanks: 11266
+    files: 1907
+  Json:
+    code: 29273
+    comments: 0
+    blanks: 39
+    files: 655
+  Yaml:
+    code: 11017
+    comments: 118
+    blanks: 2315
+    files: 44
+  Toml:
+    code: 3080
+    comments: 340
+    blanks: 455
+    files: 77
+  Jsx:
+    code: 2557
+    comments: 297
+    blanks: 290
+    files: 152
+  Tsx:
+    code: 2498
+    comments: 508
+    blanks: 418
+    files: 195
+  Sass:
+    code: 1094
+    comments: 365
+    blanks: 62
+    files: 61
+  Css:
+    code: 621
+    comments: 179
+    blanks: 32
+    files: 50
+  Less:
+    code: 380
+    comments: 68
+    blanks: 2
+    files: 25
+  Graphql:
+    code: 299
+    comments: 50
+    blanks: 38
+    files: 14
+  Vue:
+    code: 118
+    comments: 2
+    blanks: 15
+    files: 36
+  Sh:
+    code: 115
+    comments: 109
+    blanks: 62
+    files: 1
+  Svelte:
+    code: 47
+    comments: 0
+    blanks: 11
+    files: 13
+  Html:
+    code: 17
+    comments: 0
+    blanks: 0
+    files: 5
+  Go:
+    code: 7
+    comments: 0
+    blanks: 2
+    files: 1
+  Ruby:
+    code: 7
+    comments: 0
+    blanks: 0
+    files: 2
+  Bitbake:
+    code: 6
+    comments: 0
+    blanks: 0
+    files: 3
+  Xml:
+    code: 5
+    comments: 0
+    blanks: 0
+    files: 1
+  CoffeeScript:
+    code: 2
+    comments: 0
+    blanks: 0
+    files: 2
+  Markdown:
+    code: 0
+    comments: 135639
+    blanks: 39909
+    files: 657
+  Text:
+    code: 0
+    comments: 102
+    blanks: 15
+    files: 8
+total:
+  code: 1183228
+  comments: 302259
+  blanks: 172324
+  files: 10753
+---
+
+---
