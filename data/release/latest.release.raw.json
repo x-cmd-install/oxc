@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 5686616,
       "digest": "sha256:c71cd2dbfb4c5289634c9c3b0688adb8fd2d65413d1ce7e4ca7e7feac85a5a8b",
-      "download_count": 22,
+      "download_count": 54,
       "created_at": "2026-11-06T12:28:36Z",
       "updated_at": "2026-11-06T12:28:36Z",
       "browser_download_url": "https://github.com/oxc-project/oxc/releases/download/oxlint_v1.92.0/oxlint-aarch64-apple-darwin.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 5574305,
       "digest": "sha256:33a83247f463c5862c8ffbb056c96d96b0e02e870fbc33d55e079a43c170dcd8",
-      "download_count": 5,
+      "download_count": 9,
       "created_at": "2026-11-06T12:28:36Z",
       "updated_at": "2026-11-06T12:28:36Z",
       "browser_download_url": "https://github.com/oxc-project/oxc/releases/download/oxlint_v1.92.0/oxlint-aarch64-pc-windows-msvc.zip"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 6058223,
       "digest": "sha256:f646a6538b31d0a2735caa789b8be874d10b6a1328d80da50737da036bed400b",
-      "download_count": 9,
+      "download_count": 15,
       "created_at": "2026-11-06T12:28:36Z",
       "updated_at": "2026-11-06T12:28:36Z",
       "browser_download_url": "https://github.com/oxc-project/oxc/releases/download/oxlint_v1.92.0/oxlint-aarch64-unknown-linux-gnu.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 6071711,
       "digest": "sha256:892376bc8c74b21fc2450a9b84392138d188d7b2d7b687ad4546d30cf9dfb7f9",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-11-06T12:28:36Z",
       "updated_at": "2026-11-06T12:28:36Z",
       "browser_download_url": "https://github.com/oxc-project/oxc/releases/download/oxlint_v1.92.0/oxlint-aarch64-unknown-linux-musl.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 5734328,
       "digest": "sha256:b7e68a86875554cd3a4f2bbee1d79e0f7a91af47bfd134e3acc62c30a00c4079",
-      "download_count": 7,
+      "download_count": 14,
       "created_at": "2026-11-06T12:28:36Z",
       "updated_at": "2026-11-06T12:28:37Z",
       "browser_download_url": "https://github.com/oxc-project/oxc/releases/download/oxlint_v1.92.0/oxlint-i686-pc-windows-msvc.zip"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 6732563,
       "digest": "sha256:098b4938728458dfa302406cd221f1b1ab200ec98bce9cec55d73e77d8c5b02d",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-11-06T12:28:37Z",
       "updated_at": "2026-11-06T12:28:37Z",
       "browser_download_url": "https://github.com/oxc-project/oxc/releases/download/oxlint_v1.92.0/oxlint-riscv64gc-unknown-linux-musl.tar.gz"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 6335461,
       "digest": "sha256:343fc9f9785684f8f5d9d283fe28cbbf5514f3aa95e0d35eb051e9a70d5ccc2c",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-11-06T12:28:37Z",
       "updated_at": "2026-11-06T12:28:38Z",
       "browser_download_url": "https://github.com/oxc-project/oxc/releases/download/oxlint_v1.92.0/oxlint-x86_64-apple-darwin.tar.gz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 5996511,
       "digest": "sha256:eb821008cc1f593c27215088f926966ac5356ff621e612cdd0744cd19a410722",
-      "download_count": 32,
+      "download_count": 62,
       "created_at": "2026-11-06T12:28:37Z",
       "updated_at": "2026-11-06T12:28:38Z",
       "browser_download_url": "https://github.com/oxc-project/oxc/releases/download/oxlint_v1.92.0/oxlint-x86_64-pc-windows-msvc.zip"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 6615595,
       "digest": "sha256:ba3a4d581ff73af83b2e11432fa4abeff1c6c3fc24c3ddca9990246cee8b9a92",
-      "download_count": 84,
+      "download_count": 218,
       "created_at": "2026-11-06T12:28:38Z",
       "updated_at": "2026-11-06T12:28:38Z",
       "browser_download_url": "https://github.com/oxc-project/oxc/releases/download/oxlint_v1.92.0/oxlint-x86_64-unknown-linux-gnu.tar.gz"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 6681395,
       "digest": "sha256:34c028fa6071f10520cc5420bc8d22298328826dbb0e5cbbb982bdd0aa09b686",
-      "download_count": 6,
+      "download_count": 12,
       "created_at": "2026-11-06T12:28:38Z",
       "updated_at": "2026-11-06T12:28:39Z",
       "browser_download_url": "https://github.com/oxc-project/oxc/releases/download/oxlint_v1.92.0/oxlint-x86_64-unknown-linux-musl.tar.gz"
@@ -618,13 +618,13 @@
   "body": "### 🚀 Features\n\n- 4a52ba2 oxlint: Discover tsrs for type-aware linting (#28751) (camc314)\n- b7d2c75 linter/eslint/no-redeclare: Add `ignoreDeclarationMerge` option (#28816) (Cam McHenry)\n\n### 🐛 Bug Fixes\n\n- fa66fde oxlint,oxfmt: Resolve Vite+ config root from the config file directory (#28801) (MK (fengmk2))\n- 2091564 linter/jsdoc/require-param: Ignore enclosing function JSDoc (#28866) (camc314)\n- c6ec50b linter/react/only-export-components: Classify JSX values as non-components (#28761) (camc314)\n- 3c051ab linter/vitest/prefer-called-exactly-once-with: Preserve neighboring code in autofix (#28864) (camc314)\n- 674b962 linter/eslint/no-misleading-character-class: Use lazy regex for combining marks (#28822) (Sysix)\n- 838d339 linter/vitest/prefer-called-exactly-once-with: Avoid panic on non-ASCII text (#28850) (YT)\n- 8d24c26 linter/jsx-a11y/aria-role: Allow role={undefined} (#28804) (Abhay Godavarthy)\n- a7143bf linter/eslint/no-restricted-imports: Respect allowTypeImports correctly for empty patterns (#28842) (Cam McHenry)\n- 3d3a6f4 react-compiler: Ignore callback-local reassignments (#28820) (camc314)\n- 0cc6515 linter/unicorn/prefer-type-error: Report throws in unbraced if branches (#28819) (camc314)\n- ae43c80 linter/unicorn/prefer-single-call: Remove duplicate fix status (#28763) (Mikhail Baev)\n- a8a621a linter/eslint/no-fallthrough: Ignore unreachable exits from infinite loops (#28755) (camc314)\n- 7a17a80 linter/eslint/prefer-spread: Report calls on non-member expressions (#28753) (camc314)\n- 28442f7 oxlint: Prevent --init from overwriting existing configs (#28754) (camc314)\n- 0ae350d linter/unicorn/no-zero-fractions: Preserve exponent case (#28752) (camc314)\n- b5b3f3f linter/eslint/no-misleading-character-class: Detect more combining characters (#28733) (Sysix)\n\n### ⚡ Performance\n\n- 74d50c1 linter: Overlap import graph batches instead of polling on a pool worker (#28323) (Dunqing)",
   "reactions": {
     "url": "https://api.github.com/repos/oxc-project/oxc/releases/436475780/reactions",
-    "total_count": 4,
-    "+1": 1,
+    "total_count": 7,
+    "+1": 2,
     "-1": 0,
     "laugh": 0,
     "hooray": 0,
     "confused": 0,
-    "heart": 3,
+    "heart": 5,
     "rocket": 0,
     "eyes": 0
   }
