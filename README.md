@@ -14,13 +14,13 @@ x install oxc
 
 ## Code insight
 
-Total: **1,239,501** lines of code across **10185** files in the top 5 languages.
+Total: **1,242,013** lines of code across **10189** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 909,670 | 42,924 | 85,083 | 2591 |
-| JavaScript | 185,922 | 24,198 | 16,466 | 4636 |
-| TypeScript | 87,885 | 24,396 | 11,575 | 2089 |
+| Rust | 911,767 | 42,936 | 85,222 | 2592 |
+| JavaScript | 186,255 | 24,205 | 16,504 | 4639 |
+| TypeScript | 87,913 | 24,396 | 11,577 | 2089 |
 | Json | 30,199 | 0 | 41 | 821 |
 | Yaml | 12,565 | 115 | 2,654 | 48 |
 
@@ -33,27 +33,27 @@ Total: **1,239,501** lines of code across **10185** files in the top 5 languages
 ## Release
 
 - **Latest**: `oxlint_v1.95.0` (2026-11-23)
-- **Last commit**: 2026-11-26
+- **Last commit**: 2026-11-27
 - **Assets in release**: 16
 
 ## Popularity
 
-- **Stars**: 23,614 · **Forks**: 1,479 · **Open issues**: 5,313 · **Contributors**: 496
+- **Stars**: 23,631 · **Forks**: 1,479 · **Open issues**: 5,318 · **Contributors**: 497
 
 ## Totals (cumulative)
 
-- **Releases**: 309 · **Merged PRs**: 21087 · **Open PRs**: 560 · **Closed issues**: 4602 · **Open issues**: 711 · **Commits**: 22775
+- **Releases**: 309 · **Merged PRs**: 21133 · **Open PRs**: 558 · **Closed issues**: 4605 · **Open issues**: 713 · **Commits**: 22821
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 17 | 1228 | 258 | 204 | 126 | 1401 |
-| last60d | 2026-09-27 | 29 | 1963 | 372 | 315 | 209 | 2332 |
-| 90d | 2026-08-28 | 39 | 2594 | 443 | 409 | 254 | 2945 |
-| last180d | 2026-05-30 | 66 | 4810 | 540 | 810 | 384 | 5367 |
-| 360d | 2025-12-01 | 100 | 8968 | 559 | 2006 | 628 | 10067 |
-| last720d | 2024-12-06 | 100 | 15443 | 560 | 3272 | 700 | 15672 |
+| 30d | 2026-10-28 | 14 | 1230 | 252 | 194 | 122 | 1451 |
+| last60d | 2026-09-28 | 29 | 1964 | 369 | 311 | 209 | 2382 |
+| 90d | 2026-08-29 | 39 | 2639 | 440 | 409 | 255 | 2995 |
+| last180d | 2026-05-31 | 66 | 4850 | 538 | 808 | 386 | 5417 |
+| 360d | 2025-12-02 | 100 | 8981 | 557 | 1998 | 626 | 10117 |
+| last720d | 2024-12-07 | 100 | 15482 | 558 | 3273 | 702 | 15704 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for oxc lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T10:15:24Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T10:36:35Z._
